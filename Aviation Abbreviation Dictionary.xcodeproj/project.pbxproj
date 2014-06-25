@@ -1,0 +1,477 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		81FDFAED195A6904008C6890 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81FDFAEC195A6904008C6890 /* Foundation.framework */; };
+		81FDFAEF195A6904008C6890 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81FDFAEE195A6904008C6890 /* CoreGraphics.framework */; };
+		81FDFAF1195A6904008C6890 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81FDFAF0195A6904008C6890 /* UIKit.framework */; };
+		81FDFAF3195A6904008C6890 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81FDFAF2195A6904008C6890 /* CoreData.framework */; };
+		81FDFAF9195A6904008C6890 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 81FDFAF7195A6904008C6890 /* InfoPlist.strings */; };
+		81FDFAFB195A6904008C6890 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 81FDFAFA195A6904008C6890 /* main.m */; };
+		81FDFAFF195A6904008C6890 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 81FDFAFE195A6904008C6890 /* AppDelegate.m */; };
+		81FDFB02195A6904008C6890 /* Aviation_Abbreviation_Dictionary.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 81FDFB00195A6904008C6890 /* Aviation_Abbreviation_Dictionary.xcdatamodeld */; };
+		81FDFB04195A6904008C6890 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81FDFB03195A6904008C6890 /* Images.xcassets */; };
+		81FDFB0B195A6904008C6890 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81FDFB0A195A6904008C6890 /* XCTest.framework */; };
+		81FDFB0C195A6904008C6890 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81FDFAEC195A6904008C6890 /* Foundation.framework */; };
+		81FDFB0D195A6904008C6890 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81FDFAF0195A6904008C6890 /* UIKit.framework */; };
+		81FDFB0E195A6904008C6890 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81FDFAF2195A6904008C6890 /* CoreData.framework */; };
+		81FDFB16195A6904008C6890 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 81FDFB14195A6904008C6890 /* InfoPlist.strings */; };
+		81FDFB18195A6904008C6890 /* Aviation_Abbreviation_DictionaryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 81FDFB17195A6904008C6890 /* Aviation_Abbreviation_DictionaryTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		81FDFB0F195A6904008C6890 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 81FDFAE1195A6903008C6890 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 81FDFAE8195A6904008C6890;
+			remoteInfo = "Aviation Abbreviation Dictionary";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		81FDFAE9195A6904008C6890 /* Aviation Abbreviation Dictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Aviation Abbreviation Dictionary.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81FDFAEC195A6904008C6890 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		81FDFAEE195A6904008C6890 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		81FDFAF0195A6904008C6890 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		81FDFAF2195A6904008C6890 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		81FDFAF6195A6904008C6890 /* Aviation Abbreviation Dictionary-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Aviation Abbreviation Dictionary-Info.plist"; sourceTree = "<group>"; };
+		81FDFAF8195A6904008C6890 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		81FDFAFA195A6904008C6890 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		81FDFAFC195A6904008C6890 /* Aviation Abbreviation Dictionary-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Aviation Abbreviation Dictionary-Prefix.pch"; sourceTree = "<group>"; };
+		81FDFAFD195A6904008C6890 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		81FDFAFE195A6904008C6890 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		81FDFB01195A6904008C6890 /* Aviation_Abbreviation_Dictionary.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Aviation_Abbreviation_Dictionary.xcdatamodel; sourceTree = "<group>"; };
+		81FDFB03195A6904008C6890 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		81FDFB09195A6904008C6890 /* Aviation Abbreviation DictionaryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Aviation Abbreviation DictionaryTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81FDFB0A195A6904008C6890 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		81FDFB13195A6904008C6890 /* Aviation Abbreviation DictionaryTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Aviation Abbreviation DictionaryTests-Info.plist"; sourceTree = "<group>"; };
+		81FDFB15195A6904008C6890 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		81FDFB17195A6904008C6890 /* Aviation_Abbreviation_DictionaryTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Aviation_Abbreviation_DictionaryTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		81FDFAE6195A6904008C6890 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				81FDFAEF195A6904008C6890 /* CoreGraphics.framework in Frameworks */,
+				81FDFAF3195A6904008C6890 /* CoreData.framework in Frameworks */,
+				81FDFAF1195A6904008C6890 /* UIKit.framework in Frameworks */,
+				81FDFAED195A6904008C6890 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		81FDFB06195A6904008C6890 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				81FDFB0B195A6904008C6890 /* XCTest.framework in Frameworks */,
+				81FDFB0E195A6904008C6890 /* CoreData.framework in Frameworks */,
+				81FDFB0D195A6904008C6890 /* UIKit.framework in Frameworks */,
+				81FDFB0C195A6904008C6890 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		81FDFAE0195A6903008C6890 = {
+			isa = PBXGroup;
+			children = (
+				81FDFAF4195A6904008C6890 /* Aviation Abbreviation Dictionary */,
+				81FDFB11195A6904008C6890 /* Aviation Abbreviation DictionaryTests */,
+				81FDFAEB195A6904008C6890 /* Frameworks */,
+				81FDFAEA195A6904008C6890 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		81FDFAEA195A6904008C6890 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				81FDFAE9195A6904008C6890 /* Aviation Abbreviation Dictionary.app */,
+				81FDFB09195A6904008C6890 /* Aviation Abbreviation DictionaryTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		81FDFAEB195A6904008C6890 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				81FDFAEC195A6904008C6890 /* Foundation.framework */,
+				81FDFAEE195A6904008C6890 /* CoreGraphics.framework */,
+				81FDFAF0195A6904008C6890 /* UIKit.framework */,
+				81FDFAF2195A6904008C6890 /* CoreData.framework */,
+				81FDFB0A195A6904008C6890 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		81FDFAF4195A6904008C6890 /* Aviation Abbreviation Dictionary */ = {
+			isa = PBXGroup;
+			children = (
+				81FDFAFD195A6904008C6890 /* AppDelegate.h */,
+				81FDFAFE195A6904008C6890 /* AppDelegate.m */,
+				81FDFB03195A6904008C6890 /* Images.xcassets */,
+				81FDFB00195A6904008C6890 /* Aviation_Abbreviation_Dictionary.xcdatamodeld */,
+				81FDFAF5195A6904008C6890 /* Supporting Files */,
+			);
+			path = "Aviation Abbreviation Dictionary";
+			sourceTree = "<group>";
+		};
+		81FDFAF5195A6904008C6890 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				81FDFAF6195A6904008C6890 /* Aviation Abbreviation Dictionary-Info.plist */,
+				81FDFAF7195A6904008C6890 /* InfoPlist.strings */,
+				81FDFAFA195A6904008C6890 /* main.m */,
+				81FDFAFC195A6904008C6890 /* Aviation Abbreviation Dictionary-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		81FDFB11195A6904008C6890 /* Aviation Abbreviation DictionaryTests */ = {
+			isa = PBXGroup;
+			children = (
+				81FDFB17195A6904008C6890 /* Aviation_Abbreviation_DictionaryTests.m */,
+				81FDFB12195A6904008C6890 /* Supporting Files */,
+			);
+			path = "Aviation Abbreviation DictionaryTests";
+			sourceTree = "<group>";
+		};
+		81FDFB12195A6904008C6890 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				81FDFB13195A6904008C6890 /* Aviation Abbreviation DictionaryTests-Info.plist */,
+				81FDFB14195A6904008C6890 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		81FDFAE8195A6904008C6890 /* Aviation Abbreviation Dictionary */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 81FDFB1B195A6904008C6890 /* Build configuration list for PBXNativeTarget "Aviation Abbreviation Dictionary" */;
+			buildPhases = (
+				81FDFAE5195A6904008C6890 /* Sources */,
+				81FDFAE6195A6904008C6890 /* Frameworks */,
+				81FDFAE7195A6904008C6890 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Aviation Abbreviation Dictionary";
+			productName = "Aviation Abbreviation Dictionary";
+			productReference = 81FDFAE9195A6904008C6890 /* Aviation Abbreviation Dictionary.app */;
+			productType = "com.apple.product-type.application";
+		};
+		81FDFB08195A6904008C6890 /* Aviation Abbreviation DictionaryTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 81FDFB1E195A6904008C6890 /* Build configuration list for PBXNativeTarget "Aviation Abbreviation DictionaryTests" */;
+			buildPhases = (
+				81FDFB05195A6904008C6890 /* Sources */,
+				81FDFB06195A6904008C6890 /* Frameworks */,
+				81FDFB07195A6904008C6890 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				81FDFB10195A6904008C6890 /* PBXTargetDependency */,
+			);
+			name = "Aviation Abbreviation DictionaryTests";
+			productName = "Aviation Abbreviation DictionaryTests";
+			productReference = 81FDFB09195A6904008C6890 /* Aviation Abbreviation DictionaryTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		81FDFAE1195A6903008C6890 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Adam Birdsall";
+				TargetAttributes = {
+					81FDFB08195A6904008C6890 = {
+						TestTargetID = 81FDFAE8195A6904008C6890;
+					};
+				};
+			};
+			buildConfigurationList = 81FDFAE4195A6904008C6890 /* Build configuration list for PBXProject "Aviation Abbreviation Dictionary" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 81FDFAE0195A6903008C6890;
+			productRefGroup = 81FDFAEA195A6904008C6890 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				81FDFAE8195A6904008C6890 /* Aviation Abbreviation Dictionary */,
+				81FDFB08195A6904008C6890 /* Aviation Abbreviation DictionaryTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		81FDFAE7195A6904008C6890 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				81FDFAF9195A6904008C6890 /* InfoPlist.strings in Resources */,
+				81FDFB04195A6904008C6890 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		81FDFB07195A6904008C6890 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				81FDFB16195A6904008C6890 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		81FDFAE5195A6904008C6890 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				81FDFB02195A6904008C6890 /* Aviation_Abbreviation_Dictionary.xcdatamodeld in Sources */,
+				81FDFAFF195A6904008C6890 /* AppDelegate.m in Sources */,
+				81FDFAFB195A6904008C6890 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		81FDFB05195A6904008C6890 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				81FDFB18195A6904008C6890 /* Aviation_Abbreviation_DictionaryTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		81FDFB10195A6904008C6890 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 81FDFAE8195A6904008C6890 /* Aviation Abbreviation Dictionary */;
+			targetProxy = 81FDFB0F195A6904008C6890 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		81FDFAF7195A6904008C6890 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				81FDFAF8195A6904008C6890 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		81FDFB14195A6904008C6890 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				81FDFB15195A6904008C6890 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		81FDFB19195A6904008C6890 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		81FDFB1A195A6904008C6890 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		81FDFB1C195A6904008C6890 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Aviation Abbreviation Dictionary/Aviation Abbreviation Dictionary-Prefix.pch";
+				INFOPLIST_FILE = "Aviation Abbreviation Dictionary/Aviation Abbreviation Dictionary-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		81FDFB1D195A6904008C6890 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Aviation Abbreviation Dictionary/Aviation Abbreviation Dictionary-Prefix.pch";
+				INFOPLIST_FILE = "Aviation Abbreviation Dictionary/Aviation Abbreviation Dictionary-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		81FDFB1F195A6904008C6890 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Aviation Abbreviation Dictionary.app/Aviation Abbreviation Dictionary";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Aviation Abbreviation Dictionary/Aviation Abbreviation Dictionary-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Aviation Abbreviation DictionaryTests/Aviation Abbreviation DictionaryTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		81FDFB20195A6904008C6890 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Aviation Abbreviation Dictionary.app/Aviation Abbreviation Dictionary";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Aviation Abbreviation Dictionary/Aviation Abbreviation Dictionary-Prefix.pch";
+				INFOPLIST_FILE = "Aviation Abbreviation DictionaryTests/Aviation Abbreviation DictionaryTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		81FDFAE4195A6904008C6890 /* Build configuration list for PBXProject "Aviation Abbreviation Dictionary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				81FDFB19195A6904008C6890 /* Debug */,
+				81FDFB1A195A6904008C6890 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		81FDFB1B195A6904008C6890 /* Build configuration list for PBXNativeTarget "Aviation Abbreviation Dictionary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				81FDFB1C195A6904008C6890 /* Debug */,
+				81FDFB1D195A6904008C6890 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		81FDFB1E195A6904008C6890 /* Build configuration list for PBXNativeTarget "Aviation Abbreviation DictionaryTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				81FDFB1F195A6904008C6890 /* Debug */,
+				81FDFB20195A6904008C6890 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		81FDFB00195A6904008C6890 /* Aviation_Abbreviation_Dictionary.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				81FDFB01195A6904008C6890 /* Aviation_Abbreviation_Dictionary.xcdatamodel */,
+			);
+			currentVersion = 81FDFB01195A6904008C6890 /* Aviation_Abbreviation_Dictionary.xcdatamodel */;
+			path = Aviation_Abbreviation_Dictionary.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 81FDFAE1195A6903008C6890 /* Project object */;
+}
