@@ -1,0 +1,4545 @@
+{ "results": [
+	{
+        "Abbreviation": "A/C",
+        "Definition": "Aircraft",
+        "createdAt": "2014-06-02T17:53:05.344Z",
+        "objectId": "XANGcAa6s2",
+        "updatedAt": "2014-06-02T17:53:07.521Z"
+    },
+	{
+        "Abbreviation": "A/P",
+        "Definition": "Autopilot",
+        "createdAt": "2014-06-02T17:53:26.249Z",
+        "objectId": "T5nOFoSglv",
+        "updatedAt": "2014-06-02T17:53:28.910Z"
+    },
+	{
+        "Abbreviation": "A/SKID",
+        "Definition": "Anti-Skid",
+        "createdAt": "2014-06-02T18:27:13.230Z",
+        "objectId": "CCL6YwTeX5",
+        "updatedAt": "2014-06-02T18:38:31.174Z"
+    },
+	{
+        "Abbreviation": "A/THR",
+        "Definition": "Autothrottle or Autothrust",
+        "createdAt": "2014-06-02T18:27:16.345Z",
+        "objectId": "Fx9K4UkkbV",
+        "updatedAt": "2014-06-02T18:38:45.024Z"
+    },
+	{
+        "Abbreviation": "AAE",
+        "Definition": "Above Aerodrome Elevation",
+        "createdAt": "2014-06-02T18:27:19.331Z",
+        "objectId": "AGddNYP19Z",
+        "updatedAt": "2014-06-02T18:38:58.752Z"
+    },
+	{
+        "Abbreviation": "AAIR",
+        "Definition": "Annual Airworthiness Information Report",
+        "createdAt": "2014-06-02T18:27:21.705Z",
+        "objectId": "pKORQpNL1z",
+        "updatedAt": "2014-06-02T18:39:13.684Z"
+    },
+	{
+        "Abbreviation": "AC",
+        "Definition": "Alternating Current",
+        "createdAt": "2014-06-02T18:27:23.048Z",
+        "objectId": "CyTcam25Mr",
+        "updatedAt": "2014-06-02T18:39:22.915Z"
+    },
+	{
+        "Abbreviation": "ACA",
+        "Definition": "Arctic Control Area",
+        "createdAt": "2014-06-02T18:27:26.747Z",
+        "objectId": "fhfl8cH2mO",
+        "updatedAt": "2014-06-02T18:39:37.521Z"
+    },
+	{
+        "Abbreviation": "ACARS",
+        "Definition": "ARINC Communication Addressing and Reporting System",
+        "createdAt": "2014-06-02T18:27:31.704Z",
+        "objectId": "ZGjDiHAaxO",
+        "updatedAt": "2014-06-02T18:39:56.955Z"
+    },
+	{
+        "Abbreviation": "ACAS",
+        "Definition": "Airborne Collision and Avoidance System",
+        "createdAt": "2014-06-02T18:27:33.886Z",
+        "objectId": "UGrhtyCEeL",
+        "updatedAt": "2014-06-02T18:40:09.698Z"
+    },
+	{
+        "Abbreviation": "ACC",
+        "Definition": "Area Control Center",
+        "createdAt": "2014-06-02T18:27:35.061Z",
+        "objectId": "5ZHVVz7SHF",
+        "updatedAt": "2014-06-02T18:40:18.989Z"
+    },
+	{
+        "Abbreviation": "ACCY",
+        "Definition": "Accuracy",
+        "createdAt": "2014-06-02T18:27:36.678Z",
+        "objectId": "bFXlCkDOCy",
+        "updatedAt": "2014-06-02T18:40:24.713Z"
+    },
+	{
+        "Abbreviation": "ACOV",
+        "Definition": "Automatic Cut Out Valve",
+        "createdAt": "2014-06-02T18:27:53.070Z",
+        "objectId": "Bd6kUr98rS",
+        "updatedAt": "2014-06-02T18:40:39.287Z"
+    },
+	{
+        "Abbreviation": "ACP",
+        "Definition": "Audio Control Panel",
+        "createdAt": "2014-06-02T18:27:55.471Z",
+        "objectId": "j3DBsYkVuw",
+        "updatedAt": "2014-06-02T18:41:19.614Z"
+    },
+	{
+        "Abbreviation": "ACSC",
+        "Definition": "Aerodrome Critical Surface Contamination",
+        "createdAt": "2014-06-02T18:27:57.994Z",
+        "objectId": "oPauaOKz5O",
+        "updatedAt": "2014-06-02T18:41:35.056Z"
+    },
+	{
+        "Abbreviation": "ADC",
+        "Definition": "Air Data Computer",
+        "createdAt": "2014-06-02T18:27:59.612Z",
+        "objectId": "73pTvcKBMY",
+        "updatedAt": "2014-06-02T18:41:41.523Z"
+    },
+	{
+        "Abbreviation": "ADCUS",
+        "Definition": "Advise Customs",
+        "createdAt": "2014-06-02T18:28:01.473Z",
+        "objectId": "5djs43lUgO",
+        "updatedAt": "2014-06-02T18:41:52.770Z"
+    },
+	{
+        "Abbreviation": "ADF",
+        "Definition": "Automatic Direction Finder",
+        "createdAt": "2014-06-02T18:28:23.821Z",
+        "objectId": "1baNf0Zmd9",
+        "updatedAt": "2014-06-02T18:42:01.149Z"
+    },
+	{
+        "Abbreviation": "ADIRS",
+        "Definition": "Air Data Inertial Reference System",
+        "createdAt": "2014-06-02T18:28:40.499Z",
+        "objectId": "kBiLXXY1Sv",
+        "updatedAt": "2014-06-02T18:42:12.546Z"
+    },
+	{
+        "Abbreviation": "ADIRU",
+        "Definition": "Air Data Inertial Reference Unit",
+        "createdAt": "2014-06-02T18:28:45.906Z",
+        "objectId": "uYButcNjwM",
+        "updatedAt": "2014-06-02T18:42:25.123Z"
+    },
+	{
+        "Abbreviation": "ADIZ",
+        "Definition": "Air Defense Identification Zone",
+        "createdAt": "2014-06-02T18:28:48.549Z",
+        "objectId": "wVwz8T2jkL",
+        "updatedAt": "2014-06-02T18:42:35.821Z"
+    },
+	{
+        "Abbreviation": "ADR",
+        "Definition": "Air Data Reference",
+        "createdAt": "2014-06-02T18:28:49.570Z",
+        "objectId": "hmYqe8PCpt",
+        "updatedAt": "2014-06-02T18:42:45.979Z"
+    },
+	{
+        "Abbreviation": "ADS",
+        "Definition": "Automatic Dependent  Surveillance",
+        "createdAt": "2014-06-02T18:28:51.273Z",
+        "objectId": "C5aPPciHCQ",
+        "updatedAt": "2014-06-02T18:43:01.784Z"
+    },
+	{
+        "Abbreviation": "ADS-B",
+        "Definition": "Automatic Dependent Surveillance Broadcast",
+        "createdAt": "2014-06-02T18:28:54.324Z",
+        "objectId": "1SjyRsrCB1",
+        "updatedAt": "2014-06-02T18:43:19.164Z"
+    },
+	{
+        "Abbreviation": "AFC",
+        "Definition": "Automatic Frequency Control",
+        "createdAt": "2014-06-02T18:29:07.390Z",
+        "objectId": "qfCvN3WIvl",
+        "updatedAt": "2014-06-02T18:43:27.790Z"
+    },
+	{
+        "Abbreviation": "AFCS",
+        "Definition": "Automatic Flight Control System",
+        "createdAt": "2014-06-02T18:29:09.589Z",
+        "objectId": "hDa2K0ECoX",
+        "updatedAt": "2014-06-02T18:43:39.890Z"
+    },
+	{
+        "Abbreviation": "AFS",
+        "Definition": "Aeronautical Fixed Service",
+        "createdAt": "2014-06-02T18:29:11.660Z",
+        "objectId": "H5WwWb9Na1",
+        "updatedAt": "2014-06-02T18:43:52.142Z"
+    },
+	{
+        "Abbreviation": "AFTN",
+        "Definition": "Aeronautical Fixed Telecommunications Network",
+        "createdAt": "2014-06-02T18:29:58.520Z",
+        "objectId": "fuGQVztTfK",
+        "updatedAt": "2014-06-02T18:44:06.572Z"
+    },
+	{
+        "Abbreviation": "AGL",
+        "Definition": "Above Ground Level",
+        "createdAt": "2014-06-02T18:30:02.620Z",
+        "objectId": "T77aaGYD6X",
+        "updatedAt": "2014-06-02T18:44:14.224Z"
+    },
+	{
+        "Abbreviation": "AH",
+        "Definition": "Alert Height",
+        "createdAt": "2014-06-02T18:30:04.748Z",
+        "objectId": "O9rEZVIZKq",
+        "updatedAt": "2014-06-02T18:44:19.804Z"
+    },
+	{
+        "Abbreviation": "AIC",
+        "Definition": "Aeronautical Information Circular",
+        "createdAt": "2014-06-02T18:30:05.838Z",
+        "objectId": "a0Nqvj8pK6",
+        "updatedAt": "2014-06-02T18:44:37.062Z"
+    },
+	{
+        "Abbreviation": "AIP",
+        "Definition": "Aeronautical Information Publication",
+        "createdAt": "2014-06-02T18:30:08.012Z",
+        "objectId": "NeKtNXnkS1",
+        "updatedAt": "2014-06-02T18:44:55.655Z"
+    },
+	{
+        "Abbreviation": "AIRAC",
+        "Definition": "Aeronautical Information, Regulation and Control",
+        "createdAt": "2014-06-02T18:30:10.247Z",
+        "objectId": "twtMPP9M1Z",
+        "updatedAt": "2014-06-02T18:45:13.964Z"
+    },
+	{
+        "Abbreviation": "AIREP",
+        "Definition": "Air Report",
+        "createdAt": "2014-06-02T18:30:12.492Z",
+        "objectId": "tjbFmuGTzN",
+        "updatedAt": "2014-06-02T18:45:20.713Z"
+    },
+	{
+        "Abbreviation": "AIS",
+        "Definition": "Aeronautical Information Service",
+        "createdAt": "2014-06-02T18:30:18.602Z",
+        "objectId": "esUXaHSRHn",
+        "updatedAt": "2014-06-02T18:45:31.117Z"
+    },
+	{
+        "Abbreviation": "ALERFA",
+        "Definition": "Alert Phase",
+        "createdAt": "2014-06-02T18:30:20.744Z",
+        "objectId": "yBneRGpuXx",
+        "updatedAt": "2014-06-02T18:45:39.704Z"
+    },
+	{
+        "Abbreviation": "ALS",
+        "Definition": "Approach Lighting System",
+        "createdAt": "2014-06-02T18:30:22.690Z",
+        "objectId": "uSHWD97PCO",
+        "updatedAt": "2014-06-02T18:45:50.049Z"
+    },
+	{
+        "Abbreviation": "ALT",
+        "Definition": "Altitide",
+        "createdAt": "2014-06-02T18:30:24.603Z",
+        "objectId": "aKYah7e9Ay",
+        "updatedAt": "2014-06-02T18:45:55.742Z"
+    },
+	{
+        "Abbreviation": "ALTN",
+        "Definition": "Alternate",
+        "createdAt": "2014-06-02T18:30:25.756Z",
+        "objectId": "iMHE6vHtgo",
+        "updatedAt": "2014-06-02T18:46:06.468Z"
+    },
+	{
+        "Abbreviation": "AM",
+        "Definition": "Amplitude Modulation",
+        "createdAt": "2014-06-02T18:30:27.503Z",
+        "objectId": "Xy1NQC618Z",
+        "updatedAt": "2014-06-02T18:46:16.700Z"
+    },
+	{
+        "Abbreviation": "AMA",
+        "Definition": "Area Minimum Altitude",
+        "createdAt": "2014-06-02T18:30:28.338Z",
+        "objectId": "Yeb8gkVIXR",
+        "updatedAt": "2014-06-02T18:46:24.964Z"
+    },
+	{
+        "Abbreviation": "AME",
+        "Definition": "Aircraft Maintenance Engineer / Aviation Medical Examiner",
+        "createdAt": "2014-06-02T18:30:33.334Z",
+        "objectId": "1DKmtIyQPk",
+        "updatedAt": "2014-06-02T18:46:53.377Z"
+    },
+	{
+        "Abbreviation": "AMIS",
+        "Definition": "Aircraft Movement Information Service",
+        "createdAt": "2014-06-02T18:30:35.787Z",
+        "objectId": "bGdbuqBZdq",
+        "updatedAt": "2014-06-02T18:47:18.710Z"
+    },
+	{
+        "Abbreviation": "AMSL",
+        "Definition": "Above Mean Sea Level",
+        "createdAt": "2014-06-02T18:30:36.660Z",
+        "objectId": "439LrowUTN",
+        "updatedAt": "2014-06-02T18:47:29.096Z"
+    },
+	{
+        "Abbreviation": "AOA",
+        "Definition": "Angle of Attack",
+        "createdAt": "2014-06-02T18:30:37.796Z",
+        "objectId": "7iKYlAQaKC",
+        "updatedAt": "2014-06-02T18:47:35.121Z"
+    },
+	{
+        "Abbreviation": "AOE",
+        "Definition": "Airport of Entry",
+        "createdAt": "2014-06-02T18:30:40.241Z",
+        "objectId": "8B7t3jAKQt",
+        "updatedAt": "2014-06-02T18:47:41.461Z"
+    },
+	{
+        "Abbreviation": "AOM",
+        "Definition": "Aircraft Operations Manual",
+        "createdAt": "2014-06-02T18:30:42.153Z",
+        "objectId": "FA6p3wr5RL",
+        "updatedAt": "2014-06-02T18:47:50.702Z"
+    },
+	{
+        "Abbreviation": "APAPI",
+        "Definition": "Abbreviated Precision Approach Path Indicator",
+        "createdAt": "2014-06-02T18:30:44.984Z",
+        "objectId": "gZBhg0eOJ1",
+        "updatedAt": "2014-06-02T18:48:11.619Z"
+    },
+	{
+        "Abbreviation": "APPR",
+        "Definition": "Approach",
+        "createdAt": "2014-06-02T18:30:53.702Z",
+        "objectId": "gvrEiBsgKK",
+        "updatedAt": "2014-06-02T18:48:17.791Z"
+    },
+	{
+        "Abbreviation": "APU",
+        "Definition": "Auxiliary Power Unit",
+        "createdAt": "2014-06-02T18:30:55.662Z",
+        "objectId": "6jV13PxQkP",
+        "updatedAt": "2014-06-02T18:48:32.980Z"
+    },
+	{
+        "Abbreviation": "APV",
+        "Definition": "Approach Procedure with Vertical Guidance",
+        "createdAt": "2014-06-02T18:30:57.608Z",
+        "objectId": "c8oVXUEAdf",
+        "updatedAt": "2014-06-02T18:48:47.986Z"
+    },
+	{
+        "Abbreviation": "ARCAL",
+        "Definition": "Aircraft Radio Control of Aerodrome Lighting",
+        "createdAt": "2014-06-02T18:31:25.451Z",
+        "objectId": "hJSNsV82dU",
+        "updatedAt": "2014-06-02T18:49:18.460Z"
+    },
+	{
+        "Abbreviation": "ARFF",
+        "Definition": "Aircraft Rescue and Fire Fighting",
+        "createdAt": "2014-06-02T18:31:28.404Z",
+        "objectId": "HD0K1OFD1n",
+        "updatedAt": "2014-06-02T18:49:32.745Z"
+    },
+	{
+        "Abbreviation": "ARP",
+        "Definition": "Aerodrome Reference Point",
+        "createdAt": "2014-06-02T18:31:30.799Z",
+        "objectId": "qJ4w5x44kE",
+        "updatedAt": "2014-06-02T18:49:44.517Z"
+    },
+	{
+        "Abbreviation": "ARPT",
+        "Definition": "Airport",
+        "createdAt": "2014-06-02T18:31:31.886Z",
+        "objectId": "4K0IZZCSxI",
+        "updatedAt": "2014-06-02T18:49:51.332Z"
+    },
+	{
+        "Abbreviation": "ASAP",
+        "Definition": "As Soon As Possible",
+        "createdAt": "2014-06-02T18:31:34.473Z",
+        "objectId": "IoKxz043Zs",
+        "updatedAt": "2014-06-02T18:49:58.008Z"
+    },
+	{
+        "Abbreviation": "ASDA",
+        "Definition": "Accelerate-Stop Distance Available",
+        "createdAt": "2014-06-02T18:31:37.151Z",
+        "objectId": "tLDBnIw0tQ",
+        "updatedAt": "2014-06-02T18:50:10.606Z"
+    },
+	{
+        "Abbreviation": "ASDE",
+        "Definition": "Airport Surface Detection Equipment",
+        "createdAt": "2014-06-02T18:31:38.472Z",
+        "objectId": "5nrzTsOtq5",
+        "updatedAt": "2014-06-02T18:50:26.228Z"
+    },
+	{
+        "Abbreviation": "ASI",
+        "Definition": "Airspeed Indicator",
+        "createdAt": "2014-06-02T18:31:45.697Z",
+        "objectId": "zAmw7kPgFI",
+        "updatedAt": "2014-06-02T18:50:34.727Z"
+    },
+	{
+        "Abbreviation": "ASL",
+        "Definition": "Above Sea Level",
+        "createdAt": "2014-06-02T18:31:46.614Z",
+        "objectId": "TqAARYXis5",
+        "updatedAt": "2014-06-02T18:50:41.061Z"
+    },
+	{
+        "Abbreviation": "ASMR",
+        "Definition": "Airfield Surface Movement Radar",
+        "createdAt": "2014-06-02T18:31:48.055Z",
+        "objectId": "7QatsR08nw",
+        "updatedAt": "2014-06-02T18:50:52.785Z"
+    },
+	{
+        "Abbreviation": "ASR",
+        "Definition": "Aerodrome Surveillance Radar",
+        "createdAt": "2014-06-02T18:31:52.672Z",
+        "objectId": "DsfiBZu46G",
+        "updatedAt": "2014-06-02T18:51:04.142Z"
+    },
+	{
+        "Abbreviation": "ATC",
+        "Definition": "Air Traffic Control",
+        "createdAt": "2014-06-02T18:31:55.195Z",
+        "objectId": "Px6H7BmXa3",
+        "updatedAt": "2014-06-02T18:51:16.416Z"
+    },
+	{
+        "Abbreviation": "ATF",
+        "Definition": "Aviation Turbine Fuel",
+        "createdAt": "2014-06-02T18:31:57.216Z",
+        "objectId": "gTkcLGhDnB",
+        "updatedAt": "2014-06-02T18:53:27.437Z"
+    },
+	{
+        "Abbreviation": "ATFM",
+        "Definition": "Air Traffic Flow Management",
+        "createdAt": "2014-06-02T18:32:04.349Z",
+        "objectId": "sqOA1kA7la",
+        "updatedAt": "2014-06-02T18:53:45.788Z"
+    },
+	{
+        "Abbreviation": "ATIS",
+        "Definition": "Automatic Terminal Information Service",
+        "createdAt": "2014-06-02T18:32:05.361Z",
+        "objectId": "1P84UbMOVC",
+        "updatedAt": "2014-06-02T18:53:56.521Z"
+    },
+	{
+        "Abbreviation": "ATOT",
+        "Definition": "Actual Take-Off Time",
+        "createdAt": "2014-06-02T18:32:06.471Z",
+        "objectId": "sVljcFEM04",
+        "updatedAt": "2014-06-02T18:54:04.350Z"
+    },
+	{
+        "Abbreviation": "ATS",
+        "Definition": "Air Traffic Service",
+        "createdAt": "2014-06-02T18:32:08.519Z",
+        "objectId": "dW8YqUkyRW",
+        "updatedAt": "2014-06-02T18:54:09.732Z"
+    },
+	{
+        "Abbreviation": "ATT",
+        "Definition": "Altitude",
+        "createdAt": "2014-06-02T18:32:10.343Z",
+        "objectId": "2scqxRMVtM",
+        "updatedAt": "2014-06-02T18:54:14.959Z"
+    },
+	{
+        "Abbreviation": "AU",
+        "Definition": "Approach UNICOM",
+        "createdAt": "2014-06-02T18:32:11.147Z",
+        "objectId": "kB1pt23qYC",
+        "updatedAt": "2014-06-02T18:54:23.162Z"
+    },
+	{
+        "Abbreviation": "AULA",
+        "Definition": "Advanced Ultralight Aeroplane",
+        "createdAt": "2014-06-02T18:32:14.138Z",
+        "objectId": "BDg68dB7vO",
+        "updatedAt": "2014-06-02T18:54:38.888Z"
+    },
+	{
+        "Abbreviation": "AVC",
+        "Definition": "Automatic Volume Control",
+        "createdAt": "2014-06-02T18:32:41.799Z",
+        "objectId": "YW3WnN44tP",
+        "updatedAt": "2014-06-02T18:54:51.721Z"
+    },
+	{
+        "Abbreviation": "AVNCS",
+        "Definition": "Avionics",
+        "createdAt": "2014-06-02T18:32:45.091Z",
+        "objectId": "YFlRzoHKxM",
+        "updatedAt": "2014-06-02T18:54:56.855Z"
+    },
+	{
+        "Abbreviation": "AWOS",
+        "Definition": "Automated Weather Observation System",
+        "createdAt": "2014-06-02T18:32:46.258Z",
+        "objectId": "VkBdLVTrsj",
+        "updatedAt": "2014-06-02T18:55:08.122Z"
+    },
+	{
+        "Abbreviation": "AWY",
+        "Definition": "Airway",
+        "createdAt": "2014-06-02T18:32:47.707Z",
+        "objectId": "tMt2qMmiLo",
+        "updatedAt": "2014-06-02T18:55:13.004Z"
+    },
+	{
+        "Abbreviation": "B-VOR",
+        "Definition": "Broadcast VOR",
+        "createdAt": "2014-06-02T18:32:58.327Z",
+        "objectId": "4E45jnMTBc",
+        "updatedAt": "2014-06-02T18:55:23.756Z"
+    },
+	{
+        "Abbreviation": "BARO",
+        "Definition": "Barometric",
+        "createdAt": "2014-06-02T18:33:01.645Z",
+        "objectId": "OlkLvaoDfv",
+        "updatedAt": "2014-06-02T18:55:28.644Z"
+    },
+	{
+        "Abbreviation": "BARO-VNAV",
+        "Definition": "Barometric Vertical Navigation",
+        "createdAt": "2014-06-02T18:33:06.889Z",
+        "objectId": "vc0CqkA5HY",
+        "updatedAt": "2014-06-02T18:55:38.469Z"
+    },
+	{
+        "Abbreviation": "BAT",
+        "Definition": "Battery",
+        "createdAt": "2014-06-02T18:33:10.403Z",
+        "objectId": "e1yeXKFp60",
+        "updatedAt": "2014-06-02T18:55:41.923Z"
+    },
+	{
+        "Abbreviation": "BCFG",
+        "Definition": "Becoming Fog",
+        "createdAt": "2014-06-02T18:33:14.193Z",
+        "objectId": "nfJxCP9lko",
+        "updatedAt": "2014-06-02T18:55:50.801Z"
+    },
+	{
+        "Abbreviation": "BCL",
+        "Definition": "Battery Charge Limiter",
+        "createdAt": "2014-06-02T18:33:15.510Z",
+        "objectId": "2WGugdO0Wh",
+        "updatedAt": "2014-06-02T18:58:32.183Z"
+    },
+	{
+        "Abbreviation": "BCST",
+        "Definition": "Broadcast",
+        "createdAt": "2014-06-02T18:33:22.561Z",
+        "objectId": "ZwUpmFMI1a",
+        "updatedAt": "2014-06-02T18:58:40.013Z"
+    },
+	{
+        "Abbreviation": "BEW",
+        "Definition": "Basic Empty Weight",
+        "createdAt": "2014-06-02T18:33:25.773Z",
+        "objectId": "WXE8eLsene",
+        "updatedAt": "2014-06-02T18:58:54.218Z"
+    },
+	{
+        "Abbreviation": "BFL",
+        "Definition": "Balanced Field Length",
+        "createdAt": "2014-06-02T18:33:30.714Z",
+        "objectId": "bis8lvWTiB",
+        "updatedAt": "2014-06-02T18:59:03.326Z"
+    },
+	{
+        "Abbreviation": "BFO",
+        "Definition": "Beat Frequency Oscillator",
+        "createdAt": "2014-06-02T18:33:32.781Z",
+        "objectId": "9gXTVFm0f9",
+        "updatedAt": "2014-06-02T18:59:12.085Z"
+    },
+	{
+        "Abbreviation": "BITE",
+        "Definition": "Built-In Test Equipment",
+        "createdAt": "2014-06-02T18:33:34.776Z",
+        "objectId": "sEdaHq9WNQ",
+        "updatedAt": "2014-06-02T18:59:22.125Z"
+    },
+	{
+        "Abbreviation": "BMC",
+        "Definition": "Bleed Air Monitoring Computer",
+        "createdAt": "2014-06-02T18:33:36.931Z",
+        "objectId": "IE9jb2aaMh",
+        "updatedAt": "2014-06-02T18:59:31.601Z"
+    },
+	{
+        "Abbreviation": "BRG",
+        "Definition": "Bearing",
+        "createdAt": "2014-06-02T18:33:38.915Z",
+        "objectId": "71HlVV6LqP",
+        "updatedAt": "2014-06-02T18:59:35.534Z"
+    },
+	{
+        "Abbreviation": "BRK",
+        "Definition": "Brake",
+        "createdAt": "2014-06-02T18:33:44.199Z",
+        "objectId": "2NJly7zmTQ",
+        "updatedAt": "2014-06-02T18:59:40.774Z"
+    },
+	{
+        "Abbreviation": "BRP",
+        "Definition": "Brake Release Point",
+        "createdAt": "2014-06-02T18:33:45.537Z",
+        "objectId": "igr7IvS1iz",
+        "updatedAt": "2014-06-02T18:59:52.348Z"
+    },
+	{
+        "Abbreviation": "BRT",
+        "Definition": "Bright",
+        "createdAt": "2014-06-02T18:33:54.161Z",
+        "objectId": "qAYcYVY9zz",
+        "updatedAt": "2014-06-02T18:59:56.310Z"
+    },
+	{
+        "Abbreviation": "BSCU",
+        "Definition": "Braking Steering Control Unit",
+        "createdAt": "2014-06-02T18:33:57.497Z",
+        "objectId": "viclFnAc0y",
+        "updatedAt": "2014-06-02T19:00:05.829Z"
+    },
+	{
+        "Abbreviation": "BTC",
+        "Definition": "Bus Tie Contractor",
+        "createdAt": "2014-06-02T18:33:58.860Z",
+        "objectId": "zK1WzeYbIn",
+        "updatedAt": "2014-06-02T19:01:22.833Z"
+    },
+	{
+        "Abbreviation": "BTL",
+        "Definition": "Bottle",
+        "createdAt": "2014-06-02T18:33:59.974Z",
+        "objectId": "0vWLLykAZU",
+        "updatedAt": "2014-06-02T19:01:26.518Z"
+    },
+	{
+        "Abbreviation": "BULA",
+        "Definition": "Basic Ultralight Aeroplane",
+        "createdAt": "2014-06-02T18:34:05.346Z",
+        "objectId": "OOplaRDPcK",
+        "updatedAt": "2014-06-02T19:01:38.812Z"
+    },
+	{
+        "Abbreviation": "CFI",
+        "Definition": "Certified Flight Instructor",
+        "createdAt": "2014-06-02T23:44:12.075Z",
+        "objectId": "2H4NM77eYU",
+        "updatedAt": "2014-06-02T23:44:20.109Z"
+    },
+	{
+        "Abbreviation": "C",
+        "Definition": "Centigrade",
+        "createdAt": "2014-06-02T23:41:39.380Z",
+        "objectId": "WTCsnRqxCy",
+        "updatedAt": "2014-06-02T23:45:05.662Z"
+    },
+	{
+        "Abbreviation": "C/B",
+        "Definition": "Circuit Breaker",
+        "createdAt": "2014-06-02T23:41:39.737Z",
+        "objectId": "wg3V9H3QFO",
+        "updatedAt": "2014-06-02T23:45:14.656Z"
+    },
+	{
+        "Abbreviation": "CADORS",
+        "Definition": "Civil Aviation Daily Occurrence Reporting System",
+        "createdAt": "2014-06-02T23:41:43.563Z",
+        "objectId": "UEsxvvh6G6",
+        "updatedAt": "2014-06-02T23:45:30.738Z"
+    },
+	{
+        "Abbreviation": "CAE",
+        "Definition": "Control Area Extension",
+        "createdAt": "2014-06-02T23:41:46.011Z",
+        "objectId": "xrFduaMwAx",
+        "updatedAt": "2014-06-02T23:45:41.585Z"
+    },
+	{
+        "Abbreviation": "CAP",
+        "Definition": "Canada Air Pilot",
+        "createdAt": "2014-06-02T23:41:47.133Z",
+        "objectId": "LHxsTvR7pl",
+        "updatedAt": "2014-06-02T23:45:49.172Z"
+    },
+	{
+        "Abbreviation": "CAPT",
+        "Definition": "Captain",
+        "createdAt": "2014-06-02T23:41:48.519Z",
+        "objectId": "dkBvBkdBTK",
+        "updatedAt": "2014-06-02T23:45:53.564Z"
+    },
+	{
+        "Abbreviation": "CAR",
+        "Definition": "Canadian Aviation Regulations",
+        "createdAt": "2014-06-02T23:41:57.726Z",
+        "objectId": "Pi1MBbhuqX",
+        "updatedAt": "2014-06-02T23:46:06.607Z"
+    },
+	{
+        "Abbreviation": "CARAC",
+        "Definition": "Canadian Aviation Regulation Advisory Council",
+        "createdAt": "2014-06-02T23:41:59.019Z",
+        "objectId": "lyzXwPjhvR",
+        "updatedAt": "2014-06-02T23:46:22.192Z"
+    },
+	{
+        "Abbreviation": "CARS",
+        "Definition": "Community Aerodrome Radio Station",
+        "createdAt": "2014-06-02T23:42:00.137Z",
+        "objectId": "qgQAKR6ddC",
+        "updatedAt": "2014-06-02T23:46:33.459Z"
+    },
+	{
+        "Abbreviation": "CAS",
+        "Definition": "Calibrated Airspeed",
+        "createdAt": "2014-06-02T23:42:01.702Z",
+        "objectId": "IMVFEuHrSF",
+        "updatedAt": "2014-06-02T23:46:41.078Z"
+    },
+	{
+        "Abbreviation": "CAT",
+        "Definition": "Clean Air Turbulence",
+        "createdAt": "2014-06-02T23:42:04.305Z",
+        "objectId": "PSSzrs4mgU",
+        "updatedAt": "2014-06-02T23:46:50.551Z"
+    },
+	{
+        "Abbreviation": "CAVOK",
+        "Definition": "Ceiling and Visibility OK",
+        "createdAt": "2014-06-02T23:42:10.845Z",
+        "objectId": "4I7ytPoL76",
+        "updatedAt": "2014-06-02T23:47:01.109Z"
+    },
+	{
+        "Abbreviation": "CDA",
+        "Definition": "Canadian Domestic Airspace",
+        "createdAt": "2014-06-02T23:42:14.411Z",
+        "objectId": "MqCONaPQ6P",
+        "updatedAt": "2014-06-02T23:47:15.351Z"
+    },
+	{
+        "Abbreviation": "CDFA",
+        "Definition": "Continuous Descent Final Approach",
+        "createdAt": "2014-06-02T23:42:17.068Z",
+        "objectId": "aKtOrUgNP1",
+        "updatedAt": "2014-06-02T23:47:29.282Z"
+    },
+	{
+        "Abbreviation": "CDL",
+        "Definition": "Configuration Deviation List",
+        "createdAt": "2014-06-02T23:42:19.167Z",
+        "objectId": "Bz0OcXsfuO",
+        "updatedAt": "2014-06-02T23:47:38.926Z"
+    },
+	{
+        "Abbreviation": "CDU",
+        "Definition": "Control Display Unit",
+        "createdAt": "2014-06-02T23:42:20.212Z",
+        "objectId": "KXjxNUO13D",
+        "updatedAt": "2014-06-02T23:47:46.901Z"
+    },
+	{
+        "Abbreviation": "CFB",
+        "Definition": "Canadian Forces Base",
+        "createdAt": "2014-06-02T23:42:23.153Z",
+        "objectId": "KraHPixddd",
+        "updatedAt": "2014-06-02T23:48:30.195Z"
+    },
+	{
+        "Abbreviation": "CFDS",
+        "Definition": "Centralized Fault Display Unit",
+        "createdAt": "2014-06-02T23:42:26.385Z",
+        "objectId": "gK9i9Dg5Lt",
+        "updatedAt": "2014-06-02T23:48:39.659Z"
+    },
+	{
+        "Abbreviation": "CFIT",
+        "Definition": "Controlled Flight Into Terrain",
+        "createdAt": "2014-06-02T23:42:27.682Z",
+        "objectId": "1Cj1YT5HCH",
+        "updatedAt": "2014-06-02T23:48:48.405Z"
+    },
+	{
+        "Abbreviation": "CFS",
+        "Definition": "Check Flight Schedule",
+        "createdAt": "2014-06-02T23:42:28.747Z",
+        "objectId": "LlcAE0e6dz",
+        "updatedAt": "2014-06-02T23:49:54.668Z"
+    },
+	{
+        "Abbreviation": "CFR",
+        "Definition": "Code of Federal Regulations",
+        "createdAt": "2014-06-02T23:50:04.415Z",
+        "objectId": "oOk00XHP03",
+        "updatedAt": "2014-06-02T23:50:10.385Z"
+    },
+	{
+        "Abbreviation": "CG",
+        "Definition": "Center of Gravity",
+        "createdAt": "2014-06-02T23:42:29.704Z",
+        "objectId": "eSHq7l6pU5",
+        "updatedAt": "2014-06-02T23:50:21.010Z"
+    },
+	{
+        "Abbreviation": "CGL",
+        "Definition": "Circling Guidance Lighting",
+        "createdAt": "2014-06-02T23:42:31.842Z",
+        "objectId": "5NC7ploMnO",
+        "updatedAt": "2014-06-02T23:50:35.229Z"
+    },
+	{
+        "Abbreviation": "CI",
+        "Definition": "Cirrus Clouds",
+        "createdAt": "2014-06-02T23:42:33.055Z",
+        "objectId": "SIRTidpHHb",
+        "updatedAt": "2014-06-02T23:50:43.270Z"
+    },
+	{
+        "Abbreviation": "CIDS",
+        "Definition": "Cabin Intercommunication Data System",
+        "createdAt": "2014-06-02T23:42:34.538Z",
+        "objectId": "gTCOmv2RrV",
+        "updatedAt": "2014-06-02T23:50:54.279Z"
+    },
+	{
+        "Abbreviation": "CKPT",
+        "Definition": "Cockpit",
+        "createdAt": "2014-06-02T23:42:40.215Z",
+        "objectId": "Krv78TyqEw",
+        "updatedAt": "2014-06-02T23:51:04.331Z"
+    },
+	{
+        "Abbreviation": "CLB",
+        "Definition": "Climb",
+        "createdAt": "2014-06-02T23:42:42.694Z",
+        "objectId": "4fNWDJqnNa",
+        "updatedAt": "2014-06-02T23:51:11.348Z"
+    },
+	{
+        "Abbreviation": "CLR",
+        "Definition": "Clear",
+        "createdAt": "2014-06-02T23:42:43.119Z",
+        "objectId": "ErMBbqdI3Y",
+        "updatedAt": "2014-06-02T23:51:15.511Z"
+    },
+	{
+        "Abbreviation": "CM",
+        "Definition": "Centimeters",
+        "createdAt": "2014-06-02T23:42:43.916Z",
+        "objectId": "7mfHcSEfCl",
+        "updatedAt": "2014-06-02T23:51:22.306Z"
+    },
+	{
+        "Abbreviation": "CMA",
+        "Definition": "Central Monitoring Agency",
+        "createdAt": "2014-06-02T23:42:44.906Z",
+        "objectId": "ZBDtCJ8bXd",
+        "updatedAt": "2014-06-02T23:51:30.625Z"
+    },
+	{
+        "Abbreviation": "CMC",
+        "Definition": "Canadian Meteorological Center",
+        "createdAt": "2014-06-02T23:42:45.913Z",
+        "objectId": "9oXzOmkHvC",
+        "updatedAt": "2014-06-02T23:51:45.766Z"
+    },
+	{
+        "Abbreviation": "CMNPS",
+        "Definition": "Canadian Minimum Navigation Performance Specifications",
+        "createdAt": "2014-06-02T23:42:47.569Z",
+        "objectId": "hY4qPq6uOB",
+        "updatedAt": "2014-06-02T23:52:05.812Z"
+    },
+	{
+        "Abbreviation": "CORTE",
+        "Definition": "Company Route",
+        "createdAt": "2014-06-02T23:42:55.884Z",
+        "objectId": "gJ8G3wJEWe",
+        "updatedAt": "2014-06-02T23:52:42.185Z"
+    },
+	{
+        "Abbreviation": "CP",
+        "Definition": "Center of Pressure",
+        "createdAt": "2014-06-02T23:42:57.743Z",
+        "objectId": "ipk0HiyaOV",
+        "updatedAt": "2014-06-02T23:52:49.504Z"
+    },
+	{
+        "Abbreviation": "CPDLC",
+        "Definition": "Controller-Pilot Data-Link Communications",
+        "createdAt": "2014-06-02T23:43:00.731Z",
+        "objectId": "jJdRe4wuyR",
+        "updatedAt": "2014-06-02T23:53:09.001Z"
+    },
+	{
+        "Abbreviation": "CRC",
+        "Definition": "Continuous Repetitive Chime",
+        "createdAt": "2014-06-02T23:43:03.137Z",
+        "objectId": "Ldn1HGNgax",
+        "updatedAt": "2014-06-02T23:53:21.543Z"
+    },
+	{
+        "Abbreviation": "CRFI",
+        "Definition": "Canadian Runway Friction Index",
+        "createdAt": "2014-06-02T23:43:05.527Z",
+        "objectId": "0iASG6fs8n",
+        "updatedAt": "2014-06-02T23:53:32.154Z"
+    },
+	{
+        "Abbreviation": "CRM",
+        "Definition": "Crew Resource Management",
+        "createdAt": "2014-06-02T23:43:17.994Z",
+        "objectId": "2fRXh6zqb9",
+        "updatedAt": "2014-06-02T23:54:21.918Z"
+    },
+	{
+        "Abbreviation": "CRT",
+        "Definition": "Cathode Ray Tube",
+        "createdAt": "2014-06-02T23:43:20.595Z",
+        "objectId": "mxfbq0ETYC",
+        "updatedAt": "2014-06-02T23:55:24.950Z"
+    },
+	{
+        "Abbreviation": "CRZ",
+        "Definition": "Cruise",
+        "createdAt": "2014-06-02T23:43:21.974Z",
+        "objectId": "bnnAdfF12I",
+        "updatedAt": "2014-06-02T23:55:31.581Z"
+    },
+	{
+        "Abbreviation": "CS",
+        "Definition": "Cirrostratus Clouds",
+        "createdAt": "2014-06-02T23:43:25.025Z",
+        "objectId": "KmQRyNRLlU",
+        "updatedAt": "2014-06-02T23:55:41.058Z"
+    },
+	{
+        "Abbreviation": "CSM/G",
+        "Definition": "Constant Speed Motor/Generator",
+        "createdAt": "2014-06-02T23:43:28.680Z",
+        "objectId": "GBYOeAnWMP",
+        "updatedAt": "2014-06-02T23:56:07.942Z"
+    },
+	{
+        "Abbreviation": "CSTR",
+        "Definition": "Contraint",
+        "createdAt": "2014-06-02T23:43:34.554Z",
+        "objectId": "IoRQkKqrqU",
+        "updatedAt": "2014-06-02T23:56:15.179Z"
+    },
+	{
+        "Abbreviation": "CTA",
+        "Definition": "Control Area",
+        "createdAt": "2014-06-02T23:43:40.213Z",
+        "objectId": "flHwsdU1tY",
+        "updatedAt": "2014-06-02T23:56:23.414Z"
+    },
+	{
+        "Abbreviation": "CTL",
+        "Definition": "Control",
+        "createdAt": "2014-06-02T23:43:48.854Z",
+        "objectId": "wWkOnlfScE",
+        "updatedAt": "2014-06-02T23:56:52.242Z"
+    },
+	{
+        "Abbreviation": "CTR",
+        "Definition": "Center",
+        "createdAt": "2014-06-02T23:43:51.953Z",
+        "objectId": "bxBdPHgKTy",
+        "updatedAt": "2014-06-02T23:58:43.780Z"
+    },
+	{
+        "Abbreviation": "CVR",
+        "Definition": "Cockpit Voice Recorder",
+        "createdAt": "2014-06-02T23:43:54.210Z",
+        "objectId": "nt0lO6m3Wo",
+        "updatedAt": "2014-06-02T23:58:06.323Z"
+    },
+	{
+        "Abbreviation": "CWAS",
+        "Definition": "Canada Water Aerodrome Supplement",
+        "createdAt": "2014-06-02T23:43:56.789Z",
+        "objectId": "rNX3GDUP1y",
+        "updatedAt": "2014-06-02T23:58:18.189Z"
+    },
+	{
+        "Abbreviation": "CZ",
+        "Definition": "Control Zone",
+        "createdAt": "2014-06-02T23:44:00.759Z",
+        "objectId": "TWxkLEbUsL",
+        "updatedAt": "2014-06-02T23:58:29.097Z"
+    },
+	{
+        "Abbreviation": "CTOT",
+        "Definition": "Calculated Take-Off Time",
+        "createdAt": "2014-06-02T23:43:44.090Z",
+        "objectId": "6dnHdaWmuy",
+        "updatedAt": "2014-06-02T23:59:04.401Z"
+    },
+	{
+        "Abbreviation": "DA",
+        "Definition": "Decision Altitude",
+        "createdAt": "2014-06-03T00:05:29.597Z",
+        "objectId": "Fgy1qGnyHA",
+        "updatedAt": "2014-06-03T00:07:02.319Z"
+    },
+	{
+        "Abbreviation": "DAH",
+        "Definition": "Designated Airspace Handbook",
+        "createdAt": "2014-06-03T00:05:36.230Z",
+        "objectId": "dupCEH5Fxc",
+        "updatedAt": "2014-06-03T00:07:13.539Z"
+    },
+	{
+        "Abbreviation": "DALR",
+        "Definition": "Dry Adiabatic Lapse Rate",
+        "createdAt": "2014-06-03T00:05:37.306Z",
+        "objectId": "YK6o21kn35",
+        "updatedAt": "2014-06-03T00:07:25.827Z"
+    },
+	{
+        "Abbreviation": "DCPC",
+        "Definition": "Direct Controller-Pilot Communications",
+        "createdAt": "2014-06-03T00:05:39.808Z",
+        "objectId": "giocSjIOs7",
+        "updatedAt": "2014-06-03T00:07:42.738Z"
+    },
+	{
+        "Abbreviation": "DDRMI",
+        "Definition": "Digital Distance and Radio Magnetic Indicator",
+        "createdAt": "2014-06-03T00:05:41.627Z",
+        "objectId": "0NF07NJCbe",
+        "updatedAt": "2014-06-03T00:07:58.113Z"
+    },
+	{
+        "Abbreviation": "DES",
+        "Definition": "Descent",
+        "createdAt": "2014-06-03T00:05:44.125Z",
+        "objectId": "AqY3s948IR",
+        "updatedAt": "2014-06-03T00:08:02.565Z"
+    },
+	{
+        "Abbreviation": "DEST",
+        "Definition": "Destination",
+        "createdAt": "2014-06-03T00:05:46.038Z",
+        "objectId": "vHxUH9yAXj",
+        "updatedAt": "2014-06-03T00:08:06.980Z"
+    },
+	{
+        "Abbreviation": "DETRESFA",
+        "Definition": "Distress Phase",
+        "createdAt": "2014-06-03T00:05:51.098Z",
+        "objectId": "QzeLNqPtER",
+        "updatedAt": "2014-06-03T00:08:15.086Z"
+    },
+	{
+        "Abbreviation": "DF",
+        "Definition": "Direction Finder",
+        "createdAt": "2014-06-03T00:05:54.760Z",
+        "objectId": "KgGjZyHChL",
+        "updatedAt": "2014-06-03T00:08:21.240Z"
+    },
+	{
+        "Abbreviation": "DFDR",
+        "Definition": "Digital Flight Data Recorder",
+        "createdAt": "2014-06-03T00:05:58.022Z",
+        "objectId": "bU3GlRqYAa",
+        "updatedAt": "2014-06-03T00:08:34.820Z"
+    },
+	{
+        "Abbreviation": "DGI",
+        "Definition": "Directional Gyro Indicator",
+        "createdAt": "2014-06-03T00:05:59.096Z",
+        "objectId": "wyH4KcHeQF",
+        "updatedAt": "2014-06-03T00:08:42.981Z"
+    },
+	{
+        "Abbreviation": "DH",
+        "Definition": "Decision Height",
+        "createdAt": "2014-06-03T00:06:01.178Z",
+        "objectId": "XkUaYnXJqm",
+        "updatedAt": "2014-06-03T00:08:56.000Z"
+    },
+	{
+        "Abbreviation": "DIRTO",
+        "Definition": "Direction To",
+        "createdAt": "2014-06-03T00:06:10.645Z",
+        "objectId": "CU7na5oAzi",
+        "updatedAt": "2014-06-03T00:09:01.744Z"
+    },
+	{
+        "Abbreviation": "DISCH",
+        "Definition": "Discharge",
+        "createdAt": "2014-06-03T00:06:13.355Z",
+        "objectId": "xoYhKqZZXW",
+        "updatedAt": "2014-06-03T00:09:08.811Z"
+    },
+	{
+        "Abbreviation": "DIST",
+        "Definition": "Distance",
+        "createdAt": "2014-06-03T00:06:15.612Z",
+        "objectId": "9NJxTTMwMj",
+        "updatedAt": "2014-06-03T00:09:13.645Z"
+    },
+	{
+        "Abbreviation": "DMC",
+        "Definition": "Display Management Computer",
+        "createdAt": "2014-06-03T00:06:16.801Z",
+        "objectId": "F9qAXvIbDA",
+        "updatedAt": "2014-06-03T00:09:22.847Z"
+    },
+	{
+        "Abbreviation": "DME",
+        "Definition": "Distance Measuring Equipment",
+        "createdAt": "2014-06-03T00:06:18.993Z",
+        "objectId": "5UrsFFjxcz",
+        "updatedAt": "2014-06-03T00:09:40.848Z"
+    },
+	{
+        "Abbreviation": "DOC",
+        "Definition": "Designated Operation Coverage",
+        "createdAt": "2014-06-03T00:06:19.973Z",
+        "objectId": "TdlHTP1o9W",
+        "updatedAt": "2014-06-03T00:10:02.414Z"
+    },
+	{
+        "Abbreviation": "DOW",
+        "Definition": "Dry Operating Weight",
+        "createdAt": "2014-06-03T00:06:21.628Z",
+        "objectId": "cbgNHSzQmX",
+        "updatedAt": "2014-06-03T00:10:12.409Z"
+    },
+	{
+        "Abbreviation": "DP",
+        "Definition": "Departure Procedure",
+        "createdAt": "2014-06-03T00:06:22.836Z",
+        "objectId": "BdZDoswAVj",
+        "updatedAt": "2014-06-03T00:10:24.854Z"
+    },
+	{
+        "Abbreviation": "DR",
+        "Definition": "Dead Reckoning Navigation",
+        "createdAt": "2014-06-03T00:06:24.969Z",
+        "objectId": "wF9eTuW83x",
+        "updatedAt": "2014-06-03T00:10:35.651Z"
+    },
+	{
+        "Abbreviation": "DRC",
+        "Definition": "Direct Reading Compass",
+        "createdAt": "2014-06-03T00:06:27.280Z",
+        "objectId": "18OmtQuo8f",
+        "updatedAt": "2014-06-03T00:10:47.191Z"
+    },
+	{
+        "Abbreviation": "DST",
+        "Definition": "Daylight Savings Time",
+        "createdAt": "2014-06-03T00:06:29.825Z",
+        "objectId": "8tCVfcT5Ue",
+        "updatedAt": "2014-06-03T00:11:21.339Z"
+    },
+	{
+        "Abbreviation": "DTW",
+        "Definition": "Downwind Termination Waypoint",
+        "createdAt": "2014-06-03T00:06:31.124Z",
+        "objectId": "fusumdxgwc",
+        "updatedAt": "2014-06-03T00:11:34.352Z"
+    },
+	{
+        "Abbreviation": "DU",
+        "Definition": "Display Unit",
+        "createdAt": "2014-06-03T00:06:36.023Z",
+        "objectId": "un4LgOncLv",
+        "updatedAt": "2014-06-03T00:11:39.762Z"
+    },
+	{
+        "Abbreviation": "DUATS",
+        "Definition": "Direct User Access Terminal System",
+        "createdAt": "2014-06-03T00:06:38.911Z",
+        "objectId": "kxPZR3OOGO",
+        "updatedAt": "2014-06-03T00:11:50.400Z"
+    },
+	{
+        "Abbreviation": "DVFR",
+        "Definition": "Deference Visual Flight Rules",
+        "createdAt": "2014-06-03T00:06:49.962Z",
+        "objectId": "jMyTqzGG8j",
+        "updatedAt": "2014-06-03T00:12:05.203Z"
+    },
+	{
+        "Abbreviation": "CFII",
+        "Definition": "Certified Flight Instrument Instructor",
+        "createdAt": "2014-06-03T00:15:02.578Z",
+        "objectId": "q16fIHLPcl",
+        "updatedAt": "2014-06-03T00:15:12.496Z"
+    },
+	{
+        "Abbreviation": "E/WD",
+        "Definition": "Engine/Warning Display",
+        "createdAt": "2014-06-03T00:35:11.703Z",
+        "objectId": "NRArblyEn5",
+        "updatedAt": "2014-06-03T00:39:10.204Z"
+    },
+	{
+        "Abbreviation": "EADI",
+        "Definition": "Electronic Attitude Director Indicator",
+        "createdAt": "2014-06-03T00:35:12.937Z",
+        "objectId": "HmVoDRgGlI",
+        "updatedAt": "2014-06-03T00:39:34.797Z"
+    },
+	{
+        "Abbreviation": "EAS",
+        "Definition": "Equivalent Airspeed",
+        "createdAt": "2014-06-03T00:35:15.318Z",
+        "objectId": "o1oy97cTnD",
+        "updatedAt": "2014-06-03T00:39:44.728Z"
+    },
+	{
+        "Abbreviation": "EAT",
+        "Definition": "Expected Approach Time",
+        "createdAt": "2014-06-03T00:35:16.429Z",
+        "objectId": "xg8PUySPkP",
+        "updatedAt": "2014-06-03T00:40:29.441Z"
+    },
+	{
+        "Abbreviation": "EC",
+        "Definition": "Environment Canada",
+        "createdAt": "2014-06-03T00:35:17.872Z",
+        "objectId": "Vkvk3WKlmZ",
+        "updatedAt": "2014-06-03T00:40:39.163Z"
+    },
+	{
+        "Abbreviation": "ECAM",
+        "Definition": "Electronic Centralized Aircraft Monitor",
+        "createdAt": "2014-06-03T00:35:19.780Z",
+        "objectId": "PArYxnQRhq",
+        "updatedAt": "2014-06-03T00:40:55.871Z"
+    },
+	{
+        "Abbreviation": "ECB",
+        "Definition": "Electronic Control Box",
+        "createdAt": "2014-06-03T00:35:21.330Z",
+        "objectId": "SVIq6ecsy3",
+        "updatedAt": "2014-06-03T00:41:04.694Z"
+    },
+	{
+        "Abbreviation": "ECU",
+        "Definition": "Engine Control Unit",
+        "createdAt": "2014-06-03T00:35:24.078Z",
+        "objectId": "TYumRdgOHj",
+        "updatedAt": "2014-06-03T00:41:23.640Z"
+    },
+	{
+        "Abbreviation": "EDP",
+        "Definition": "Engine Driven Pump",
+        "createdAt": "2014-06-03T00:35:26.018Z",
+        "objectId": "wm5q6sRJFn",
+        "updatedAt": "2014-06-03T00:41:30.631Z"
+    },
+	{
+        "Abbreviation": "EEC",
+        "Definition": "Electronic Engine Computer",
+        "createdAt": "2014-06-03T00:35:27.201Z",
+        "objectId": "xYZF8T4gAV",
+        "updatedAt": "2014-06-03T00:41:38.248Z"
+    },
+	{
+        "Abbreviation": "EET",
+        "Definition": "Estimated Elapsed Time",
+        "createdAt": "2014-06-03T00:35:29.180Z",
+        "objectId": "VB2N9y5A8d",
+        "updatedAt": "2014-06-03T00:41:48.490Z"
+    },
+	{
+        "Abbreviation": "EFC",
+        "Definition": "Expected Further Clearance Time",
+        "createdAt": "2014-06-03T00:35:30.527Z",
+        "objectId": "vi1zReq1F9",
+        "updatedAt": "2014-06-03T00:42:03.621Z"
+    },
+	{
+        "Abbreviation": "EFIS",
+        "Definition": "Electronic Flight Instrument System",
+        "createdAt": "2014-06-03T00:35:32.386Z",
+        "objectId": "EOIYyhK0Y9",
+        "updatedAt": "2014-06-03T00:42:16.692Z"
+    },
+	{
+        "Abbreviation": "EFOB",
+        "Definition": "Estimated Fuel On Board",
+        "createdAt": "2014-06-03T00:35:39.439Z",
+        "objectId": "ltWS5etuzT",
+        "updatedAt": "2014-06-03T00:42:35.316Z"
+    },
+	{
+        "Abbreviation": "EGT",
+        "Definition": "Exhaust Gas Temperature",
+        "createdAt": "2014-06-03T00:35:40.458Z",
+        "objectId": "8mmgYcFXiS",
+        "updatedAt": "2014-06-03T00:42:45.347Z"
+    },
+	{
+        "Abbreviation": "EHSI",
+        "Definition": "Electronic Horizontal Situation Indicator",
+        "createdAt": "2014-06-03T00:35:41.589Z",
+        "objectId": "tZeDllwDvm",
+        "updatedAt": "2014-06-03T00:43:28.300Z"
+    },
+	{
+        "Abbreviation": "EIS",
+        "Definition": "Electronic Instrument System",
+        "createdAt": "2014-06-03T00:35:44.948Z",
+        "objectId": "MiMCKDXVbN",
+        "updatedAt": "2014-06-03T00:43:39.451Z"
+    },
+	{
+        "Abbreviation": "EIU",
+        "Definition": "Engine Interface Unit",
+        "createdAt": "2014-06-03T00:35:46.118Z",
+        "objectId": "E7NMAYiisY",
+        "updatedAt": "2014-06-03T00:43:48.246Z"
+    },
+	{
+        "Abbreviation": "ELEC",
+        "Definition": "Electrics",
+        "createdAt": "2014-06-03T00:35:48.601Z",
+        "objectId": "BgUwgZmXKG",
+        "updatedAt": "2014-06-03T00:43:55.952Z"
+    },
+	{
+        "Abbreviation": "ELT",
+        "Definition": "Emergency Locator Transmitter",
+        "createdAt": "2014-06-03T00:35:49.527Z",
+        "objectId": "ly3Pu8hoDr",
+        "updatedAt": "2014-06-03T00:44:08.252Z"
+    },
+	{
+        "Abbreviation": "EMAS",
+        "Definition": "Engineered Material Arresting System",
+        "createdAt": "2014-06-03T00:35:50.553Z",
+        "objectId": "kpOKTLw5uP",
+        "updatedAt": "2014-06-03T00:44:19.419Z"
+    },
+	{
+        "Abbreviation": "EMER",
+        "Definition": "Emergency",
+        "createdAt": "2014-06-03T00:35:51.530Z",
+        "objectId": "VFNRjODMOS",
+        "updatedAt": "2014-06-03T00:44:25.555Z"
+    },
+	{
+        "Abbreviation": "EMERGEN",
+        "Definition": "Emergency Generator",
+        "createdAt": "2014-06-03T00:35:55.233Z",
+        "objectId": "pxm6XBAg9v",
+        "updatedAt": "2014-06-03T00:44:35.673Z"
+    },
+	{
+        "Abbreviation": "EO",
+        "Definition": "Engine Out",
+        "createdAt": "2014-06-03T00:35:58.147Z",
+        "objectId": "gJRTMkOre5",
+        "updatedAt": "2014-06-03T00:44:45.095Z"
+    },
+	{
+        "Abbreviation": "EPR",
+        "Definition": "Engine Pressure Ratio",
+        "createdAt": "2014-06-03T00:36:00.037Z",
+        "objectId": "7MTzCIYI3o",
+        "updatedAt": "2014-06-03T00:44:51.757Z"
+    },
+	{
+        "Abbreviation": "ENG",
+        "Definition": "Expert Network Group",
+        "createdAt": "2014-06-03T00:35:57.269Z",
+        "objectId": "VwVRyLCfvQ",
+        "updatedAt": "2014-06-03T00:45:41.205Z"
+    },
+	{
+        "Abbreviation": "ERS",
+        "Definition": "Emergency Response Service",
+        "createdAt": "2014-06-03T00:36:08.710Z",
+        "objectId": "hn3JJCpflX",
+        "updatedAt": "2014-06-03T00:46:06.197Z"
+    },
+	{
+        "Abbreviation": "ESCAT Plan",
+        "Definition": "Emergency Security Control of Air Traffic Plan",
+        "createdAt": "2014-06-03T00:36:13.909Z",
+        "objectId": "iY9hxcIyZr",
+        "updatedAt": "2014-06-03T00:46:21.137Z"
+    },
+	{
+        "Abbreviation": "EST",
+        "Definition": "Eastern Standard Time",
+        "createdAt": "2014-06-03T00:36:16.954Z",
+        "objectId": "AncqoTcrFh",
+        "updatedAt": "2014-06-03T00:46:28.479Z"
+    },
+	{
+        "Abbreviation": "ETA",
+        "Definition": "Estimated Time of Arrival",
+        "createdAt": "2014-06-03T00:36:18.979Z",
+        "objectId": "CSLBz9RKC0",
+        "updatedAt": "2014-06-03T00:46:36.732Z"
+    },
+	{
+        "Abbreviation": "ETD",
+        "Definition": "Estimated Time of Departure",
+        "createdAt": "2014-06-03T00:36:21.065Z",
+        "objectId": "UYGJWelFd8",
+        "updatedAt": "2014-06-03T00:46:44.765Z"
+    },
+	{
+        "Abbreviation": "ETE",
+        "Definition": "Estimated Time Enroute",
+        "createdAt": "2014-06-03T00:36:23.118Z",
+        "objectId": "4NyYGFw5gz",
+        "updatedAt": "2014-06-03T00:46:56.226Z"
+    },
+	{
+        "Abbreviation": "ETOPS",
+        "Definition": "Extended Twin-Engine Operations",
+        "createdAt": "2014-06-03T00:36:25.993Z",
+        "objectId": "7wCgLyc8DW",
+        "updatedAt": "2014-06-03T00:47:09.663Z"
+    },
+	{
+        "Abbreviation": "ETOT",
+        "Definition": "Estimated Take-Off Time",
+        "createdAt": "2014-06-03T00:36:29.533Z",
+        "objectId": "4A9FrsROa0",
+        "updatedAt": "2014-06-03T00:47:17.444Z"
+    },
+	{
+        "Abbreviation": "EVMU",
+        "Definition": "Engine Vibration Monitoring Unit",
+        "createdAt": "2014-06-03T00:36:31.124Z",
+        "objectId": "dJuU4ZZmUV",
+        "updatedAt": "2014-06-03T00:47:30.006Z"
+    },
+	{
+        "Abbreviation": "EWH",
+        "Definition": "Eye-To-Wheel Height",
+        "createdAt": "2014-06-03T00:36:33.709Z",
+        "objectId": "tumof9vajP",
+        "updatedAt": "2014-06-03T00:47:43.117Z"
+    },
+	{
+        "Abbreviation": "EXOT",
+        "Definition": "Estimated Taxi-Out Time",
+        "createdAt": "2014-06-03T00:36:44.617Z",
+        "objectId": "M6T9fEBwA2",
+        "updatedAt": "2014-06-03T00:47:53.049Z"
+    },
+	{
+        "Abbreviation": "F-PLN",
+        "Definition": "Flight Plan",
+        "createdAt": "2014-06-05T00:05:06.331Z",
+        "objectId": "moWE1zyUVM",
+        "updatedAt": "2014-06-05T00:06:37.385Z"
+    },
+	{
+        "Abbreviation": "F/CTL",
+        "Definition": "Flight Control",
+        "createdAt": "2014-06-05T00:05:08.684Z",
+        "objectId": "yDH0oT19N5",
+        "updatedAt": "2014-06-05T00:06:45.304Z"
+    },
+	{
+        "Abbreviation": "FLT",
+        "Definition": "Flight",
+        "createdAt": "2014-06-05T00:05:51.481Z",
+        "objectId": "F7qJt3eU3j",
+        "updatedAt": "2014-06-05T00:09:42.831Z"
+    },
+	{
+        "Abbreviation": "FREQ",
+        "Definition": "Frequency",
+        "createdAt": "2014-06-05T00:06:04.701Z",
+        "objectId": "T4Riatc5bk",
+        "updatedAt": "2014-06-05T00:10:59.786Z"
+    },
+	{
+        "Abbreviation": "FZFG",
+        "Definition": "Freezing Fog",
+        "createdAt": "2014-06-05T00:06:16.473Z",
+        "objectId": "sU91PeF8ij",
+        "updatedAt": "2014-06-05T00:11:47.943Z"
+    },
+	{
+        "Abbreviation": "F",
+        "Definition": "Farenheit",
+        "createdAt": "2014-06-05T00:05:01.765Z",
+        "objectId": "J1TxXfYatu",
+        "updatedAt": "2014-06-05T00:06:32.014Z"
+    },
+	{
+        "Abbreviation": "F/O",
+        "Definition": "First Officer",
+        "createdAt": "2014-06-05T00:05:11.932Z",
+        "objectId": "sTnTqRSedw",
+        "updatedAt": "2014-06-05T00:06:51.461Z"
+    },
+	{
+        "Abbreviation": "FAA",
+        "Definition": "Federal Aviation Administration",
+        "createdAt": "2014-06-05T00:05:13.664Z",
+        "objectId": "fckw7Gvjc7",
+        "updatedAt": "2014-06-05T00:07:03.013Z"
+    },
+	{
+        "Abbreviation": "FACF",
+        "Definition": "Final Approach Course Fix",
+        "createdAt": "2014-06-05T00:05:15.860Z",
+        "objectId": "WOecZH5tB2",
+        "updatedAt": "2014-06-05T00:07:13.767Z"
+    },
+	{
+        "Abbreviation": "FADEC",
+        "Definition": "Full Authority Digital Engine Control",
+        "createdAt": "2014-06-05T00:05:17.262Z",
+        "objectId": "LOU4RV51tz",
+        "updatedAt": "2014-06-05T00:07:24.859Z"
+    },
+	{
+        "Abbreviation": "FAF",
+        "Definition": "Final Approach Fix",
+        "createdAt": "2014-06-05T00:05:18.031Z",
+        "objectId": "eCFRxwkxwe",
+        "updatedAt": "2014-06-05T00:07:30.454Z"
+    },
+	{
+        "Abbreviation": "FAP",
+        "Definition": "Final Approach Point",
+        "createdAt": "2014-06-05T00:05:20.228Z",
+        "objectId": "i9qWpHygPk",
+        "updatedAt": "2014-06-05T00:07:38.262Z"
+    },
+	{
+        "Abbreviation": "FAR",
+        "Definition": "Federal Aviation Regulations",
+        "createdAt": "2014-06-05T00:05:21.120Z",
+        "objectId": "xdClJ9GxRj",
+        "updatedAt": "2014-06-05T00:07:47.039Z"
+    },
+	{
+        "Abbreviation": "FATO",
+        "Definition": "Final Approach and Take-Off Area",
+        "createdAt": "2014-06-05T00:05:22.995Z",
+        "objectId": "bp002CPw5z",
+        "updatedAt": "2014-06-05T00:07:58.569Z"
+    },
+	{
+        "Abbreviation": "FCU",
+        "Definition": "Flight Control Unit",
+        "createdAt": "2014-06-05T00:05:24.144Z",
+        "objectId": "qLwbEoPl8C",
+        "updatedAt": "2014-06-05T00:08:15.193Z"
+    },
+	{
+        "Abbreviation": "FD",
+        "Definition": "Flight Director",
+        "createdAt": "2014-06-05T00:05:30.426Z",
+        "objectId": "nB93bs2h1F",
+        "updatedAt": "2014-06-05T00:08:23.582Z"
+    },
+	{
+        "Abbreviation": "FF",
+        "Definition": "Fuel Flow",
+        "createdAt": "2014-06-05T00:05:31.128Z",
+        "objectId": "kL4QgT1uYX",
+        "updatedAt": "2014-06-05T00:08:27.723Z"
+    },
+	{
+        "Abbreviation": "FIC",
+        "Definition": "Flight Information Center",
+        "createdAt": "2014-06-05T00:05:31.924Z",
+        "objectId": "0TpNwBSIu1",
+        "updatedAt": "2014-06-05T00:08:36.513Z"
+    },
+	{
+        "Abbreviation": "FIR",
+        "Definition": "Flight Information Region",
+        "createdAt": "2014-06-05T00:05:32.637Z",
+        "objectId": "KXYINrGQMc",
+        "updatedAt": "2014-06-05T00:08:44.358Z"
+    },
+	{
+        "Abbreviation": "FIS",
+        "Definition": "Flight Information Service",
+        "createdAt": "2014-06-05T00:05:33.450Z",
+        "objectId": "pMfGpL6tP8",
+        "updatedAt": "2014-06-05T00:08:51.819Z"
+    },
+	{
+        "Abbreviation": "FISE",
+        "Definition": "Flight Information Service En-route",
+        "createdAt": "2014-06-05T00:05:34.394Z",
+        "objectId": "vdsoAsuKTv",
+        "updatedAt": "2014-06-05T00:09:10.616Z"
+    },
+	{
+        "Abbreviation": "FL",
+        "Definition": "Flight Level",
+        "createdAt": "2014-06-05T00:05:36.179Z",
+        "objectId": "08oeS07akX",
+        "updatedAt": "2014-06-05T00:09:14.872Z"
+    },
+	{
+        "Abbreviation": "FLLM",
+        "Definition": "Field Limited Landing Mass",
+        "createdAt": "2014-06-05T00:05:37.622Z",
+        "objectId": "ZLwurAHdxQ",
+        "updatedAt": "2014-06-05T00:09:23.332Z"
+    },
+	{
+        "Abbreviation": "FLLTOM",
+        "Definition": "Field Length Limited Take-Off Mass",
+        "createdAt": "2014-06-05T00:05:40.222Z",
+        "objectId": "I9c8nXQ7WS",
+        "updatedAt": "2014-06-05T00:09:36.167Z"
+    },
+	{
+        "Abbreviation": "FM",
+        "Definition": "Frequency Modulation",
+        "createdAt": "2014-06-05T00:05:52.262Z",
+        "objectId": "g9SvTURoLY",
+        "updatedAt": "2014-06-05T00:09:50.232Z"
+    },
+	{
+        "Abbreviation": "FMA",
+        "Definition": "Flight Mode Annunciator",
+        "createdAt": "2014-06-05T00:05:53.835Z",
+        "objectId": "fmzvbLY9eM",
+        "updatedAt": "2014-06-05T00:09:59.569Z"
+    },
+	{
+        "Abbreviation": "FMGEC",
+        "Definition": "Flight Management Guidance Envelope Computer",
+        "createdAt": "2014-06-05T00:05:55.485Z",
+        "objectId": "CZIhbZuS0R",
+        "updatedAt": "2014-06-05T00:10:13.167Z"
+    },
+	{
+        "Abbreviation": "FMGS",
+        "Definition": "Flight Management Guidance System",
+        "createdAt": "2014-06-05T00:05:56.546Z",
+        "objectId": "DD0fiPZifo",
+        "updatedAt": "2014-06-05T00:10:29.531Z"
+    },
+	{
+        "Abbreviation": "FMS",
+        "Definition": "Flight Management System",
+        "createdAt": "2014-06-05T00:05:57.375Z",
+        "objectId": "tg1JWiaNfW",
+        "updatedAt": "2014-06-05T00:10:36.994Z"
+    },
+	{
+        "Abbreviation": "FOB",
+        "Definition": "Fuel On Board",
+        "createdAt": "2014-06-05T00:05:58.158Z",
+        "objectId": "bfimYecHB8",
+        "updatedAt": "2014-06-05T00:10:42.756Z"
+    },
+	{
+        "Abbreviation": "FOM",
+        "Definition": "Flight Operating Manual",
+        "createdAt": "2014-06-05T00:05:58.997Z",
+        "objectId": "pIpSt6lrcE",
+        "updatedAt": "2014-06-05T00:10:49.656Z"
+    },
+	{
+        "Abbreviation": "FPA",
+        "Definition": "Flight Path Angle",
+        "createdAt": "2014-06-05T00:06:01.403Z",
+        "objectId": "GR3sxyQF16",
+        "updatedAt": "2014-06-05T00:10:55.505Z"
+    },
+	{
+        "Abbreviation": "FRZ",
+        "Definition": "Flight Restricted Zone",
+        "createdAt": "2014-06-05T00:06:05.658Z",
+        "objectId": "v3hf2MBaDa",
+        "updatedAt": "2014-06-05T00:11:08.020Z"
+    },
+	{
+        "Abbreviation": "FSII",
+        "Definition": "Fuel System Icing Inhibitor",
+        "createdAt": "2014-06-05T00:06:06.780Z",
+        "objectId": "0li5Pq0NNv",
+        "updatedAt": "2014-06-05T00:11:18.736Z"
+    },
+	{
+        "Abbreviation": "FSS",
+        "Definition": "Flight Service Station",
+        "createdAt": "2014-06-05T00:06:08.691Z",
+        "objectId": "K7edHHsMC3",
+        "updatedAt": "2014-06-05T00:11:27.847Z"
+    },
+	{
+        "Abbreviation": "FWC",
+        "Definition": "Flight Warning Computer",
+        "createdAt": "2014-06-05T00:06:12.608Z",
+        "objectId": "0LjfCSgmxU",
+        "updatedAt": "2014-06-05T00:11:35.716Z"
+    },
+	{
+        "Abbreviation": "FWD",
+        "Definition": "Forward",
+        "createdAt": "2014-06-05T00:06:14.723Z",
+        "objectId": "IzkHmOXM7A",
+        "updatedAt": "2014-06-05T00:11:39.432Z"
+    },
+	{
+        "Abbreviation": "G/S",
+        "Definition": "Glideslope",
+        "createdAt": "2014-06-06T17:50:12.971Z",
+        "objectId": "7Ifs2EtFm1",
+        "updatedAt": "2014-06-06T17:51:35.837Z"
+    },
+	{
+        "Abbreviation": "GAT",
+        "Definition": "General Air Traffic",
+        "createdAt": "2014-06-06T17:50:14.739Z",
+        "objectId": "3qipor82Wx",
+        "updatedAt": "2014-06-06T17:51:53.100Z"
+    },
+	{
+        "Abbreviation": "GCU",
+        "Definition": "General Control Unit",
+        "createdAt": "2014-06-06T17:50:20.124Z",
+        "objectId": "zoLuBlY9iK",
+        "updatedAt": "2014-06-06T17:52:22.212Z"
+    },
+	{
+        "Abbreviation": "GEN",
+        "Definition": "Generator",
+        "createdAt": "2014-06-06T17:50:21.055Z",
+        "objectId": "UGbMjonbXX",
+        "updatedAt": "2014-06-06T17:52:25.791Z"
+    },
+	{
+        "Abbreviation": "GFC",
+        "Definition": "Gross Fuel Consumption",
+        "createdAt": "2014-06-06T17:50:22.023Z",
+        "objectId": "EsL1IaDJhQ",
+        "updatedAt": "2014-06-06T17:52:33.087Z"
+    },
+	{
+        "Abbreviation": "GHz",
+        "Definition": "Gigahertz",
+        "createdAt": "2014-06-06T17:50:30.576Z",
+        "objectId": "0vMLFQUtyy",
+        "updatedAt": "2014-06-06T17:52:38.196Z"
+    },
+	{
+        "Abbreviation": "GMT",
+        "Definition": "Greenwich Mean Time",
+        "createdAt": "2014-06-06T17:50:35.764Z",
+        "objectId": "dJuPgicvym",
+        "updatedAt": "2014-06-06T17:53:24.167Z"
+    },
+	{
+        "Abbreviation": "GMU",
+        "Definition": "GPS Monitoring Unit",
+        "createdAt": "2014-06-06T17:50:37.371Z",
+        "objectId": "wuhHXE2EWH",
+        "updatedAt": "2014-06-06T17:53:31.114Z"
+    },
+	{
+        "Abbreviation": "GND",
+        "Definition": "Ground",
+        "createdAt": "2014-06-06T17:50:42.658Z",
+        "objectId": "iO8EJ7PHBL",
+        "updatedAt": "2014-06-06T17:53:38.642Z"
+    },
+	{
+        "Abbreviation": "GNM",
+        "Definition": "Ground Nautical Miles",
+        "createdAt": "2014-06-06T17:50:43.974Z",
+        "objectId": "5HikQuNvzN",
+        "updatedAt": "2014-06-06T17:53:46.468Z"
+    },
+	{
+        "Abbreviation": "GS",
+        "Definition": "Groundspeed",
+        "createdAt": "2014-06-06T17:50:51.976Z",
+        "objectId": "9IIZ3YSg01",
+        "updatedAt": "2014-06-06T17:54:33.468Z"
+    },
+	{
+        "Abbreviation": "GW",
+        "Definition": "Gross Weight",
+        "createdAt": "2014-06-06T17:50:59.009Z",
+        "objectId": "LrglDfgBqb",
+        "updatedAt": "2014-06-06T17:54:49.369Z"
+    },
+	{
+        "Abbreviation": "GA",
+        "Definition": "Go-Around OR General Aviation",
+        "createdAt": "2014-06-06T17:50:13.333Z",
+        "objectId": "ZOGcSAvSjI",
+        "updatedAt": "2014-06-06T17:51:47.583Z"
+    },
+	{
+        "Abbreviation": "GBAS",
+        "Definition": "Ground-Based Augmentation System",
+        "createdAt": "2014-06-06T17:50:15.872Z",
+        "objectId": "08hBZEpeBs",
+        "updatedAt": "2014-06-06T17:52:02.177Z"
+    },
+	{
+        "Abbreviation": "GCA",
+        "Definition": "Ground Controlled Approach",
+        "createdAt": "2014-06-06T17:50:18.011Z",
+        "objectId": "twCwMoiYJC",
+        "updatedAt": "2014-06-06T17:52:14.538Z"
+    },
+	{
+        "Abbreviation": "GLC",
+        "Definition": "Generator Line Contractor",
+        "createdAt": "2014-06-06T17:50:33.001Z",
+        "objectId": "w1mZxy06GH",
+        "updatedAt": "2014-06-06T17:52:52.095Z"
+    },
+	{
+        "Abbreviation": "GLS",
+        "Definition": "Global Navigation Satellite System (GNSS) Landing System",
+        "createdAt": "2014-06-06T17:50:34.748Z",
+        "objectId": "xzPLhHbDgr",
+        "updatedAt": "2014-06-06T17:53:17.136Z"
+    },
+	{
+        "Abbreviation": "GNSS",
+        "Definition": "Global Navigation Satellite System",
+        "createdAt": "2014-06-06T17:50:45.776Z",
+        "objectId": "YycjNkx7ft",
+        "updatedAt": "2014-06-06T17:54:01.349Z"
+    },
+	{
+        "Abbreviation": "GPS",
+        "Definition": "Global Positioning System",
+        "createdAt": "2014-06-06T17:50:47.317Z",
+        "objectId": "8bNp2XO49b",
+        "updatedAt": "2014-06-06T17:54:14.208Z"
+    },
+	{
+        "Abbreviation": "GPWS",
+        "Definition": "Ground Proximity Warning System",
+        "createdAt": "2014-06-06T17:50:49.937Z",
+        "objectId": "3OUzcmq8MP",
+        "updatedAt": "2014-06-06T17:54:28.322Z"
+    },
+	{
+        "Abbreviation": "GTOFP",
+        "Definition": "Gross Take-Off Flight Path",
+        "createdAt": "2014-06-06T17:50:57.140Z",
+        "objectId": "Duo5OzTCHI",
+        "updatedAt": "2014-06-06T17:54:43.016Z"
+    },
+	{
+        "Abbreviation": "HAA",
+        "Definition": "Height Above Airport",
+        "createdAt": "2014-06-06T17:56:27.500Z",
+        "objectId": "9IiAXNSOHZ",
+        "updatedAt": "2014-06-06T17:57:19.032Z"
+    },
+	{
+        "Abbreviation": "HAT",
+        "Definition": "Height Above Touchdown",
+        "createdAt": "2014-06-06T17:56:28.630Z",
+        "objectId": "UXZ92kK9F7",
+        "updatedAt": "2014-06-06T17:57:29.871Z"
+    },
+	{
+        "Abbreviation": "HDG",
+        "Definition": "Heading",
+        "createdAt": "2014-06-06T17:56:29.593Z",
+        "objectId": "5vRQoN7yTt",
+        "updatedAt": "2014-06-06T17:57:33.258Z"
+    },
+	{
+        "Abbreviation": "HF",
+        "Definition": "High Frequency",
+        "createdAt": "2014-06-06T17:56:30.207Z",
+        "objectId": "nT87WwVQoJ",
+        "updatedAt": "2014-06-06T17:57:39.312Z"
+    },
+	{
+        "Abbreviation": "HMR",
+        "Definition": "Humidity Mixing Ration",
+        "createdAt": "2014-06-06T17:56:33.600Z",
+        "objectId": "uJA0766IgL",
+        "updatedAt": "2014-06-06T17:57:58.195Z"
+    },
+	{
+        "Abbreviation": "HMU",
+        "Definition": "Hydro-Mechanical Unit",
+        "createdAt": "2014-06-06T17:56:35.408Z",
+        "objectId": "J12zxqFutE",
+        "updatedAt": "2014-06-06T17:58:12.336Z"
+    },
+	{
+        "Abbreviation": "HP",
+        "Definition": "High Pressure",
+        "createdAt": "2014-06-06T17:56:36.276Z",
+        "objectId": "lAHfkJxUq9",
+        "updatedAt": "2014-06-06T17:58:17.676Z"
+    },
+	{
+        "Abbreviation": "HPA",
+        "Definition": "Hectopascals",
+        "createdAt": "2014-06-06T17:56:38.713Z",
+        "objectId": "1Psg5ueT6a",
+        "updatedAt": "2014-06-09T15:59:19.407Z"
+    },
+	{
+        "Abbreviation": "HPV",
+        "Definition": "High Pressure Valve",
+        "createdAt": "2014-06-06T17:56:41.911Z",
+        "objectId": "7potacwFzH",
+        "updatedAt": "2014-06-06T17:58:31.394Z"
+    },
+	{
+        "Abbreviation": "HYD",
+        "Definition": "Hydraulics",
+        "createdAt": "2014-06-06T17:56:47.129Z",
+        "objectId": "HuEFS605h7",
+        "updatedAt": "2014-06-06T17:58:49.786Z"
+    },
+	{
+        "Abbreviation": "Hz",
+        "Definition": "Hertz",
+        "createdAt": "2014-06-06T17:56:52.471Z",
+        "objectId": "EWlVldf1LT",
+        "updatedAt": "2014-06-06T17:58:53.804Z"
+    },
+	{
+        "Abbreviation": "HIAL",
+        "Definition": "High Intensity Approach Lighting",
+        "createdAt": "2014-06-06T17:56:31.674Z",
+        "objectId": "JeVttu0M4b",
+        "updatedAt": "2014-06-06T17:57:49.348Z"
+    },
+	{
+        "Abbreviation": "HSI",
+        "Definition": "Horizontal Situation Indicator",
+        "createdAt": "2014-06-06T17:56:42.663Z",
+        "objectId": "TvIam8CMEc",
+        "updatedAt": "2014-06-06T17:58:41.827Z"
+    },
+	{
+        "Abbreviation": "IAF",
+        "Definition": "Initial Approach Fix",
+        "createdAt": "2014-06-06T17:59:49.290Z",
+        "objectId": "lQBPM9ayvs",
+        "updatedAt": "2014-06-06T18:00:35.152Z"
+    },
+	{
+        "Abbreviation": "IAS",
+        "Definition": "Indicated Airspeed",
+        "createdAt": "2014-06-06T17:59:52.781Z",
+        "objectId": "nUU7eioDns",
+        "updatedAt": "2014-06-06T18:00:53.791Z"
+    },
+	{
+        "Abbreviation": "IF",
+        "Definition": "Intermediate Fix",
+        "createdAt": "2014-06-06T17:59:57.119Z",
+        "objectId": "C60JoLzhCS",
+        "updatedAt": "2014-06-06T18:01:18.244Z"
+    },
+	{
+        "Abbreviation": "IFT",
+        "Definition": "Instrument Flight Test",
+        "createdAt": "2014-06-06T18:00:01.032Z",
+        "objectId": "xemAgWf86W",
+        "updatedAt": "2014-06-06T18:01:31.215Z"
+    },
+	{
+        "Abbreviation": "IGN",
+        "Definition": "Ignition",
+        "createdAt": "2014-06-06T18:00:01.835Z",
+        "objectId": "D0eMQf1E3G",
+        "updatedAt": "2014-06-06T18:01:39.363Z"
+    },
+	{
+        "Abbreviation": "INCERFA",
+        "Definition": "Uncertainty Phase",
+        "createdAt": "2014-06-06T18:00:04.951Z",
+        "objectId": "pxcNh4XFzA",
+        "updatedAt": "2014-06-06T18:02:10.490Z"
+    },
+	{
+        "Abbreviation": "INF",
+        "Definition": "Inland Navigation Fix",
+        "createdAt": "2014-06-06T18:00:06.056Z",
+        "objectId": "S0XT8rjQ9N",
+        "updatedAt": "2014-06-06T18:02:19.807Z"
+    },
+	{
+        "Abbreviation": "INT",
+        "Definition": "Initialization",
+        "createdAt": "2014-06-06T18:00:14.203Z",
+        "objectId": "G3amBJr28u",
+        "updatedAt": "2014-06-06T18:02:38.601Z"
+    },
+	{
+        "Abbreviation": "IP",
+        "Definition": "Intermediate Pressure",
+        "createdAt": "2014-06-06T18:00:15.089Z",
+        "objectId": "Iqvr6x3dAj",
+        "updatedAt": "2014-06-06T18:02:44.097Z"
+    },
+	{
+        "Abbreviation": "ISOL",
+        "Definition": "Isolation",
+        "createdAt": "2014-06-06T18:00:18.444Z",
+        "objectId": "p4UKfDm3Dn",
+        "updatedAt": "2014-06-06T18:03:10.462Z"
+    },
+	{
+        "Abbreviation": "IAP",
+        "Definition": "Instrument Approach Procedure",
+        "createdAt": "2014-06-06T17:59:50.341Z",
+        "objectId": "GZINAPT2Vn",
+        "updatedAt": "2014-06-06T18:00:44.683Z"
+    },
+	{
+        "Abbreviation": "ICAO",
+        "Definition": "International Civil Aviation Organization",
+        "createdAt": "2014-06-06T17:59:55.460Z",
+        "objectId": "F0S1iHHNnT",
+        "updatedAt": "2014-06-06T18:01:04.481Z"
+    },
+	{
+        "Abbreviation": "IDG",
+        "Definition": "Integrated Drive Generator",
+        "createdAt": "2014-06-06T17:59:56.542Z",
+        "objectId": "H7pFbYIbRE",
+        "updatedAt": "2014-06-06T18:01:12.260Z"
+    },
+	{
+        "Abbreviation": "IFR",
+        "Definition": "Instrument Flight Rules",
+        "createdAt": "2014-06-06T17:59:59.959Z",
+        "objectId": "CPlJe3RTGK",
+        "updatedAt": "2014-06-06T18:01:25.321Z"
+    },
+	{
+        "Abbreviation": "ILS",
+        "Definition": "Instrument Landing System",
+        "createdAt": "2014-06-06T18:00:02.835Z",
+        "objectId": "dWpXDEymE8",
+        "updatedAt": "2014-06-06T18:01:47.421Z"
+    },
+	{
+        "Abbreviation": "IMC",
+        "Definition": "Instrument Meteorological Conditions",
+        "createdAt": "2014-06-06T18:00:03.759Z",
+        "objectId": "as93W37ETN",
+        "updatedAt": "2014-06-06T18:02:02.392Z"
+    },
+	{
+        "Abbreviation": "INS",
+        "Definition": "Inertial Navigation System",
+        "createdAt": "2014-06-06T18:00:12.354Z",
+        "objectId": "uJRKbsSm0o",
+        "updatedAt": "2014-06-06T18:02:32.957Z"
+    },
+	{
+        "Abbreviation": "IRS",
+        "Definition": "Inertial Reference System",
+        "createdAt": "2014-06-06T18:00:16.303Z",
+        "objectId": "oRJ1RmeTgH",
+        "updatedAt": "2014-06-06T18:02:50.909Z"
+    },
+	{
+        "Abbreviation": "ISA",
+        "Definition": "International Standard Atmosphere",
+        "createdAt": "2014-06-06T18:00:17.113Z",
+        "objectId": "eU4fyd5H4J",
+        "updatedAt": "2014-06-06T18:03:02.685Z"
+    },
+	{
+        "Abbreviation": "KHz",
+        "Definition": "Kilohertz",
+        "createdAt": "2014-06-06T18:03:34.680Z",
+        "objectId": "PmIw8VLhsu",
+        "updatedAt": "2014-06-09T15:59:33.598Z"
+    },
+	{
+        "Abbreviation": "KM",
+        "Definition": "Kilometers",
+        "createdAt": "2014-06-06T18:03:39.448Z",
+        "objectId": "ueOjl3r7Za",
+        "updatedAt": "2014-06-06T18:04:11.615Z"
+    },
+	{
+        "Abbreviation": "KTS",
+        "Definition": "Knots",
+        "createdAt": "2014-06-06T18:03:42.141Z",
+        "objectId": "zinC2idgIo",
+        "updatedAt": "2014-06-06T18:04:16.855Z"
+    },
+	{
+        "Abbreviation": "JRCC",
+        "Definition": "Joint Rescue Coordination Center",
+        "createdAt": "2014-06-06T18:03:30.486Z",
+        "objectId": "9pZvgqxtAx",
+        "updatedAt": "2014-06-06T18:04:02.453Z"
+    },
+	{
+        "Abbreviation": "L/G",
+        "Definition": "Landing Gear",
+        "createdAt": "2014-06-09T15:51:58.444Z",
+        "objectId": "2q6msEfKqc",
+        "updatedAt": "2014-06-09T15:53:37.353Z"
+    },
+	{
+        "Abbreviation": "LAHSO",
+        "Definition": "Land and Hold Short",
+        "createdAt": "2014-06-09T15:52:03.078Z",
+        "objectId": "sgLADDLe4k",
+        "updatedAt": "2014-06-09T15:53:57.072Z"
+    },
+	{
+        "Abbreviation": "LAT",
+        "Definition": "Latitude",
+        "createdAt": "2014-06-09T15:52:04.215Z",
+        "objectId": "IqQitz2tu2",
+        "updatedAt": "2014-06-09T15:54:02.027Z"
+    },
+	{
+        "Abbreviation": "LAT REV",
+        "Definition": "Lateral Revision",
+        "createdAt": "2014-06-09T15:52:07.759Z",
+        "objectId": "puCZ7ftWES",
+        "updatedAt": "2014-06-09T15:54:09.876Z"
+    },
+	{
+        "Abbreviation": "LAV",
+        "Definition": "Lavatory",
+        "createdAt": "2014-06-09T15:52:10.847Z",
+        "objectId": "cSn88S9vkz",
+        "updatedAt": "2014-06-09T15:54:14.474Z"
+    },
+	{
+        "Abbreviation": "LLJ",
+        "Definition": "Low-Level Jet",
+        "createdAt": "2014-06-09T15:52:23.585Z",
+        "objectId": "yxSdKdFN1D",
+        "updatedAt": "2014-06-09T15:55:49.996Z"
+    },
+	{
+        "Abbreviation": "LNAV",
+        "Definition": "Lateral Navigation",
+        "createdAt": "2014-06-09T15:52:34.071Z",
+        "objectId": "PH2hiYOWdc",
+        "updatedAt": "2014-06-09T15:55:59.464Z"
+    },
+	{
+        "Abbreviation": "LOC",
+        "Definition": "Localizer",
+        "createdAt": "2014-06-09T15:52:35.478Z",
+        "objectId": "j8uyngpQKY",
+        "updatedAt": "2014-06-09T15:56:38.391Z"
+    },
+	{
+        "Abbreviation": "LONG",
+        "Definition": "Longitude",
+        "createdAt": "2014-06-09T15:52:39.377Z",
+        "objectId": "OTuDv0Mx8O",
+        "updatedAt": "2014-06-09T15:56:56.393Z"
+    },
+	{
+        "Abbreviation": "LP",
+        "Definition": "Low Pressure",
+        "createdAt": "2014-06-09T15:52:41.446Z",
+        "objectId": "nj5NjjMnkz",
+        "updatedAt": "2014-06-09T15:57:08.620Z"
+    },
+	{
+        "Abbreviation": "LRC",
+        "Definition": "Long Range Cruise",
+        "createdAt": "2014-06-09T15:52:50.132Z",
+        "objectId": "0kJnGTcCwk",
+        "updatedAt": "2014-06-09T15:57:34.089Z"
+    },
+	{
+        "Abbreviation": "LS",
+        "Definition": "Landing System",
+        "createdAt": "2014-06-09T15:52:50.268Z",
+        "objectId": "8XF0ZMtXp8",
+        "updatedAt": "2014-06-09T15:57:40.739Z"
+    },
+	{
+        "Abbreviation": "LSK",
+        "Definition": "Line Select Key",
+        "createdAt": "2014-06-09T15:52:52.775Z",
+        "objectId": "fxaXYmXpcf",
+        "updatedAt": "2014-06-09T15:57:55.330Z"
+    },
+	{
+        "Abbreviation": "LSS",
+        "Definition": "Local Speed of Sound",
+        "createdAt": "2014-06-09T15:52:53.458Z",
+        "objectId": "zvnAXKthuD",
+        "updatedAt": "2014-06-09T15:58:02.573Z"
+    },
+	{
+        "Abbreviation": "LVL",
+        "Definition": "Level",
+        "createdAt": "2014-06-09T15:52:55.059Z",
+        "objectId": "pHzZeoPCXN",
+        "updatedAt": "2014-06-09T15:58:06.505Z"
+    },
+	{
+        "Abbreviation": "LVL/CH",
+        "Definition": "Level Change",
+        "createdAt": "2014-06-09T15:53:00.112Z",
+        "objectId": "jnDuJSpVpr",
+        "updatedAt": "2014-06-09T15:58:14.061Z"
+    },
+	{
+        "Abbreviation": "LAF",
+        "Definition": "Load Alleviation Function",
+        "createdAt": "2014-06-09T15:52:01.344Z",
+        "objectId": "yZE0x6GW64",
+        "updatedAt": "2014-06-09T15:53:48.680Z"
+    },
+	{
+        "Abbreviation": "LCL",
+        "Definition": "Lifting Condensation Leve",
+        "createdAt": "2014-06-09T15:52:11.610Z",
+        "objectId": "lm2ZjlUMz4",
+        "updatedAt": "2014-06-09T15:54:31.592Z"
+    },
+	{
+        "Abbreviation": "LDA",
+        "Definition": "Landing Distance Available OR Localizer Type Directional Aid",
+        "createdAt": "2014-06-09T15:52:12.864Z",
+        "objectId": "NALvHZHwda",
+        "updatedAt": "2014-06-09T15:54:53.886Z"
+    },
+	{
+        "Abbreviation": "LDR",
+        "Definition": "Landing Distane Required",
+        "createdAt": "2014-06-09T15:52:15.123Z",
+        "objectId": "VYhAV0dfkE",
+        "updatedAt": "2014-06-09T15:55:10.895Z"
+    },
+	{
+        "Abbreviation": "LF",
+        "Definition": "Load Factor OR Low Frequency",
+        "createdAt": "2014-06-09T15:52:16.018Z",
+        "objectId": "Qum9RwRps6",
+        "updatedAt": "2014-06-09T15:55:26.383Z"
+    },
+	{
+        "Abbreviation": "LIAL",
+        "Definition": "Low-Intensity Approach Lighting",
+        "createdAt": "2014-06-09T15:52:18.731Z",
+        "objectId": "CkzRYEzpg8",
+        "updatedAt": "2014-06-09T15:55:42.781Z"
+    },
+	{
+        "Abbreviation": "LO",
+        "Definition": "En-route Low Altitude Chart",
+        "createdAt": "2014-06-09T15:52:34.441Z",
+        "objectId": "uNlBy9RHC8",
+        "updatedAt": "2014-06-09T15:56:22.544Z"
+    },
+	{
+        "Abbreviation": "LOC BC",
+        "Definition": "Localizer Back Course",
+        "createdAt": "2014-06-09T15:52:38.467Z",
+        "objectId": "zXaHLap9Es",
+        "updatedAt": "2014-06-09T15:56:49.786Z"
+    },
+	{
+        "Abbreviation": "LPV",
+        "Definition": "Localizer Performance with Vertical Guidance",
+        "createdAt": "2014-06-09T15:52:47.694Z",
+        "objectId": "24zNg9y27d",
+        "updatedAt": "2014-06-09T15:57:22.360Z"
+    },
+	{
+        "Abbreviation": "LVP",
+        "Definition": "Low Visibility Procedure",
+        "createdAt": "2014-06-09T15:53:07.895Z",
+        "objectId": "OJbJkrARVi",
+        "updatedAt": "2014-06-09T15:58:34.268Z"
+    },
+	{
+        "Abbreviation": "LVOP",
+        "Definition": "Low Visibility Operations Plan",
+        "createdAt": "2014-06-09T15:53:04.948Z",
+        "objectId": "uVRzht1V7x",
+        "updatedAt": "2014-06-09T15:58:39.572Z"
+    },
+	{
+        "Abbreviation": "LWIS",
+        "Definition": "Limited Weather Information System",
+        "createdAt": "2014-06-09T15:53:12.626Z",
+        "objectId": "lIGUG3Grwz",
+        "updatedAt": "2014-06-09T15:58:49.520Z"
+    },
+	{
+        "Abbreviation": "M",
+        "Definition": "Meters",
+        "createdAt": "2014-06-09T17:08:05.035Z",
+        "objectId": "aUOuyABKpo",
+        "updatedAt": "2014-06-09T17:09:56.135Z"
+    },
+	{
+        "Abbreviation": "MA",
+        "Definition": "Missed Approach ",
+        "createdAt": "2014-06-09T17:08:06.551Z",
+        "objectId": "cEFKiJFu5m",
+        "updatedAt": "2014-06-09T17:10:01.682Z"
+    },
+	{
+        "Abbreviation": "MAC",
+        "Definition": "Mean Aerodynamic Chord",
+        "createdAt": "2014-06-09T17:08:10.734Z",
+        "objectId": "XR9wha8Cne",
+        "updatedAt": "2014-06-09T17:10:25.421Z"
+    },
+	{
+        "Abbreviation": "MAG",
+        "Definition": "Magnetic",
+        "createdAt": "2014-06-09T17:08:11.373Z",
+        "objectId": "x1aMEKbjdk",
+        "updatedAt": "2014-06-09T17:10:30.241Z"
+    },
+	{
+        "Abbreviation": "MAN",
+        "Definition": "Manual",
+        "createdAt": "2014-06-09T17:08:15.485Z",
+        "objectId": "0UaOjfz1Zw",
+        "updatedAt": "2014-06-09T17:11:51.004Z"
+    },
+	{
+        "Abbreviation": "MB",
+        "Definition": "Magnetic Bearing",
+        "createdAt": "2014-06-09T17:08:30.023Z",
+        "objectId": "2mNhWZFdMJ",
+        "updatedAt": "2014-06-09T17:13:42.037Z"
+    },
+	{
+        "Abbreviation": "MEL",
+        "Definition": "Minimum Equipment List",
+        "createdAt": "2014-06-09T17:08:43.976Z",
+        "objectId": "N3bAZuUP1O",
+        "updatedAt": "2014-06-09T17:15:40.512Z"
+    },
+	{
+        "Abbreviation": "MF",
+        "Definition": "Mandatory Frequency",
+        "createdAt": "2014-06-09T17:08:48.982Z",
+        "objectId": "oztkJIANuq",
+        "updatedAt": "2014-06-09T17:16:19.992Z"
+    },
+	{
+        "Abbreviation": "MFD",
+        "Definition": "Multi-Function Display",
+        "createdAt": "2014-06-09T17:08:54.460Z",
+        "objectId": "e9yM8CGmVK",
+        "updatedAt": "2014-06-09T17:16:27.757Z"
+    },
+	{
+        "Abbreviation": "MHz",
+        "Definition": "Megahertz",
+        "createdAt": "2014-06-09T17:08:58.918Z",
+        "objectId": "nZX0Kuenbj",
+        "updatedAt": "2014-06-09T17:16:33.493Z"
+    },
+	{
+        "Abbreviation": "MKR",
+        "Definition": "Marker",
+        "createdAt": "2014-06-09T17:09:05.510Z",
+        "objectId": "vQQMPYymzD",
+        "updatedAt": "2014-06-09T17:16:48.620Z"
+    },
+	{
+        "Abbreviation": "MLW",
+        "Definition": "Maximum Landing Weight",
+        "createdAt": "2014-06-09T17:09:06.515Z",
+        "objectId": "nt87EkEnro",
+        "updatedAt": "2014-06-09T17:17:04.721Z"
+    },
+	{
+        "Abbreviation": "MMO",
+        "Definition": "Maximum Mach Operating",
+        "createdAt": "2014-06-09T17:09:07.993Z",
+        "objectId": "hBU23FOePm",
+        "updatedAt": "2014-06-09T17:18:07.596Z"
+    },
+	{
+        "Abbreviation": "MMR",
+        "Definition": "Multi-Mode Receiver",
+        "createdAt": "2014-06-09T17:09:10.876Z",
+        "objectId": "hbS90N5ee4",
+        "updatedAt": "2014-06-09T17:18:18.876Z"
+    },
+	{
+        "Abbreviation": "MPa",
+        "Definition": "Megapascal",
+        "createdAt": "2014-06-09T17:09:17.798Z",
+        "objectId": "JWNaPmWMyk",
+        "updatedAt": "2014-06-09T17:19:27.299Z"
+    },
+	{
+        "Abbreviation": "MRC",
+        "Definition": "Maximum Range Cruise",
+        "createdAt": "2014-06-09T17:09:29.320Z",
+        "objectId": "kiR17HgmsV",
+        "updatedAt": "2014-06-09T17:20:03.906Z"
+    },
+	{
+        "Abbreviation": "MSL",
+        "Definition": "Mean Sea Level",
+        "createdAt": "2014-06-09T17:09:30.971Z",
+        "objectId": "YVlvvicC73",
+        "updatedAt": "2014-06-09T17:20:48.253Z"
+    },
+	{
+        "Abbreviation": "MABH",
+        "Definition": "Minimum Approach Break-Off Height",
+        "createdAt": "2014-06-09T17:08:09.350Z",
+        "objectId": "yNLCZct2VW",
+        "updatedAt": "2014-06-09T17:10:15.348Z"
+    },
+	{
+        "Abbreviation": "MALM",
+        "Definition": "Maximum Allowable Landing Mass",
+        "createdAt": "2014-06-09T17:08:12.161Z",
+        "objectId": "vNdyj5PBoN",
+        "updatedAt": "2014-06-09T17:10:47.112Z"
+    },
+	{
+        "Abbreviation": "MALSF",
+        "Definition": "Medium Intensity Approach Lighting System with Sequenced Flashing Lights",
+        "createdAt": "2014-06-09T17:08:13.287Z",
+        "objectId": "LQ85DorfQg",
+        "updatedAt": "2014-06-09T17:11:19.256Z"
+    },
+	{
+        "Abbreviation": "MALSR",
+        "Definition": "Medium Intensity Approach Lighting System with Runway Alignment Indicator Lights",
+        "createdAt": "2014-06-09T17:08:14.767Z",
+        "objectId": "HXWbPmmNqJ",
+        "updatedAt": "2014-06-09T17:11:46.472Z"
+    },
+	{
+        "Abbreviation": "MANOT",
+        "Definition": "Missing Aircraft Notice",
+        "createdAt": "2014-06-09T17:08:18.319Z",
+        "objectId": "LAwUfgmjxl",
+        "updatedAt": "2014-06-09T17:11:59.134Z"
+    },
+	{
+        "Abbreviation": "MAP",
+        "Definition": "Missed Approach Point OR Missed Approach Procedure",
+        "createdAt": "2014-06-09T17:08:19.251Z",
+        "objectId": "3w0txhJz3w",
+        "updatedAt": "2014-06-09T17:12:14.280Z"
+    },
+	{
+        "Abbreviation": "MASI",
+        "Definition": "Mach Airspeed Indicator",
+        "createdAt": "2014-06-09T17:08:20.145Z",
+        "objectId": "GGrNrk7OXX",
+        "updatedAt": "2014-06-09T17:12:23.327Z"
+    },
+	{
+        "Abbreviation": "MATTOM",
+        "Definition": "Mass, Altitude, Temperature Take-Off Mass",
+        "createdAt": "2014-06-09T17:08:28.936Z",
+        "objectId": "OmOR8iMAVG",
+        "updatedAt": "2014-06-09T17:13:34.514Z"
+    },
+	{
+        "Abbreviation": "MCDU",
+        "Definition": "Multifunction Control and Display Unit",
+        "createdAt": "2014-06-09T17:08:34.340Z",
+        "objectId": "MZXViYnm1O",
+        "updatedAt": "2014-06-09T17:13:56.062Z"
+    },
+	{
+        "Abbreviation": "MCT",
+        "Definition": "Maximum Continuous Thrust",
+        "createdAt": "2014-06-09T17:08:35.304Z",
+        "objectId": "Dptz4l1Us3",
+        "updatedAt": "2014-06-09T17:14:07.170Z"
+    },
+	{
+        "Abbreviation": "MDA",
+        "Definition": "Minimum Descent Altitude",
+        "createdAt": "2014-06-09T17:08:36.193Z",
+        "objectId": "cdANeLTwxb",
+        "updatedAt": "2014-06-09T17:14:16.899Z"
+    },
+	{
+        "Abbreviation": "MEA",
+        "Definition": "Minimum En-route Altitude",
+        "createdAt": "2014-06-09T17:08:37.967Z",
+        "objectId": "ylmrln0Viu",
+        "updatedAt": "2014-06-09T17:15:27.856Z"
+    },
+	{
+        "Abbreviation": "MEDEVAC",
+        "Definition": "Medical Evacuation Flight",
+        "createdAt": "2014-06-09T17:08:40.534Z",
+        "objectId": "23aPyBgh7j",
+        "updatedAt": "2014-06-09T17:15:32.109Z"
+    },
+	{
+        "Abbreviation": "METAR",
+        "Definition": "Aerodrome Routine Meteorological Report",
+        "createdAt": "2014-06-09T17:08:46.247Z",
+        "objectId": "riKjPbFNjf",
+        "updatedAt": "2014-06-09T17:16:11.142Z"
+    },
+	{
+        "Abbreviation": "MLS",
+        "Definition": "Microwave Landing System",
+        "createdAt": "2014-06-09T17:09:05.766Z",
+        "objectId": "EatVWyBvxb",
+        "updatedAt": "2014-06-09T17:16:58.373Z"
+    },
+	{
+        "Abbreviation": "MM",
+        "Definition": "Middle Marker OR Millimeters",
+        "createdAt": "2014-06-09T17:09:07.165Z",
+        "objectId": "UfSIUP3M99",
+        "updatedAt": "2014-06-09T17:17:14.668Z"
+    },
+	{
+        "Abbreviation": "MNPS",
+        "Definition": "Minimum Navigation Performance Specification",
+        "createdAt": "2014-06-09T17:09:11.719Z",
+        "objectId": "BnXUSDVb2j",
+        "updatedAt": "2014-06-09T17:18:37.806Z"
+    },
+	{
+        "Abbreviation": "MNPSA",
+        "Definition": "Minimum Navigation Performance Specification Airspace",
+        "createdAt": "2014-06-09T17:09:13.627Z",
+        "objectId": "TukSnHtqm9",
+        "updatedAt": "2014-06-09T17:19:00.227Z"
+    },
+	{
+        "Abbreviation": "MOA",
+        "Definition": "Military Operations Area",
+        "createdAt": "2014-06-09T17:09:14.319Z",
+        "objectId": "LoKo5Xfbfz",
+        "updatedAt": "2014-06-09T17:19:08.461Z"
+    },
+	{
+        "Abbreviation": "MOCA",
+        "Definition": "Minimum Obstacle Clearance Altitude",
+        "createdAt": "2014-06-09T17:09:15.673Z",
+        "objectId": "PvHTi1XPW0",
+        "updatedAt": "2014-06-09T17:19:21.774Z"
+    },
+	{
+        "Abbreviation": "MRA",
+        "Definition": "Minimum Reception Altitude",
+        "createdAt": "2014-06-09T17:09:21.334Z",
+        "objectId": "Dc9yLJhnAe",
+        "updatedAt": "2014-06-09T17:19:38.365Z"
+    },
+	{
+        "Abbreviation": "MRB",
+        "Definition": "Magnetic Reference Bearing",
+        "createdAt": "2014-06-09T17:09:23.893Z",
+        "objectId": "NiQIkskHk7",
+        "updatedAt": "2014-06-09T17:19:48.724Z"
+    },
+	{
+        "Abbreviation": "MSA",
+        "Definition": "Minimum Safety Altitude OR Minimum Sector Altitude ",
+        "createdAt": "2014-06-09T17:09:30.145Z",
+        "objectId": "gkm4pw48yu",
+        "updatedAt": "2014-06-09T17:20:40.218Z"
+    },
+	{
+        "Abbreviation": "MSTOM",
+        "Definition": "Maximum Structural Take-Off Weight",
+        "createdAt": "2014-06-09T17:09:33.447Z",
+        "objectId": "B9YjDRXjBW",
+        "updatedAt": "2014-06-09T17:21:06.401Z"
+    },
+	{
+        "Abbreviation": "MTCA",
+        "Definition": "Military Terminal Control Area",
+        "createdAt": "2014-06-09T17:09:34.555Z",
+        "objectId": "cKwswGMAZJ",
+        "updatedAt": "2014-06-09T17:21:17.151Z"
+    },
+	{
+        "Abbreviation": "MTOW",
+        "Definition": "Maximum Take-Off Weight ",
+        "createdAt": "2014-06-09T17:09:34.956Z",
+        "objectId": "wwQLWAM7Kd",
+        "updatedAt": "2014-06-09T17:21:27.330Z"
+    },
+	{
+        "Abbreviation": "MVA",
+        "Definition": "Minimum Vectoring Altitude",
+        "createdAt": "2014-06-09T17:09:35.758Z",
+        "objectId": "BA9xbhnPzH",
+        "updatedAt": "2014-06-09T17:21:40.937Z"
+    },
+	{
+        "Abbreviation": "MZFW",
+        "Definition": "Maximum Zero-Fuel Weight",
+        "createdAt": "2014-06-09T17:09:38.640Z",
+        "objectId": "VDY5NJqEZ9",
+        "updatedAt": "2014-06-09T17:21:50.921Z"
+    },
+	{
+        "Abbreviation": "NAM",
+        "Definition": "Nautical Air Miles",
+        "createdAt": "2014-06-09T17:41:38.252Z",
+        "objectId": "sbFE3TihHJ",
+        "updatedAt": "2014-06-09T20:15:14.878Z"
+    },
+	{
+        "Abbreviation": "NAR",
+        "Definition": "North American Route",
+        "createdAt": "2014-06-09T17:41:38.954Z",
+        "objectId": "g6tGvU7ClD",
+        "updatedAt": "2014-06-09T20:15:20.730Z"
+    },
+	{
+        "Abbreviation": "NAT",
+        "Definition": "North Atlantic",
+        "createdAt": "2014-06-09T17:41:41.632Z",
+        "objectId": "RcgDcxMlWs",
+        "updatedAt": "2014-06-09T20:16:06.944Z"
+    },
+	{
+        "Abbreviation": "NAV",
+        "Definition": "Navigation",
+        "createdAt": "2014-06-09T17:41:44.685Z",
+        "objectId": "8uFwwV7yOh",
+        "updatedAt": "2014-06-09T20:16:41.573Z"
+    },
+	{
+        "Abbreviation": "NAVAID",
+        "Definition": "Navigation Aid",
+        "createdAt": "2014-06-09T17:41:46.024Z",
+        "objectId": "9JBi9oucGv",
+        "updatedAt": "2014-06-09T20:16:48.334Z"
+    },
+	{
+        "Abbreviation": "NCA",
+        "Definition": "Northern Control Area",
+        "createdAt": "2014-06-09T17:41:47.049Z",
+        "objectId": "iI83XZvDQ7",
+        "updatedAt": "2014-06-09T20:16:55.008Z"
+    },
+	{
+        "Abbreviation": "ND",
+        "Definition": "Navigation Display",
+        "createdAt": "2014-06-09T17:41:47.598Z",
+        "objectId": "FkX398kwqC",
+        "updatedAt": "2014-06-09T20:17:01.279Z"
+    },
+	{
+        "Abbreviation": "NDB",
+        "Definition": "Non-Directional Beacon",
+        "createdAt": "2014-06-09T17:41:56.435Z",
+        "objectId": "GW7wQUE4Rg",
+        "updatedAt": "2014-06-09T20:17:18.168Z"
+    },
+	{
+        "Abbreviation": "NM",
+        "Definition": "Nautical Mile",
+        "createdAt": "2014-06-09T17:41:57.242Z",
+        "objectId": "LcHD3e9AjA",
+        "updatedAt": "2014-06-09T20:17:22.340Z"
+    },
+	{
+        "Abbreviation": "NO PT",
+        "Definition": "No Procedure Turn",
+        "createdAt": "2014-06-09T17:41:58.579Z",
+        "objectId": "p3lm7VYirf",
+        "updatedAt": "2014-06-09T20:17:28.657Z"
+    },
+	{
+        "Abbreviation": "NORDO",
+        "Definition": "No Radio",
+        "createdAt": "2014-06-09T17:41:59.665Z",
+        "objectId": "Q5xfeyljuQ",
+        "updatedAt": "2014-06-09T20:17:34.366Z"
+    },
+	{
+        "Abbreviation": "NORM",
+        "Definition": "Normal",
+        "createdAt": "2014-06-09T17:42:00.589Z",
+        "objectId": "1Js3l3Fd6Q",
+        "updatedAt": "2014-06-09T20:17:37.747Z"
+    },
+	{
+        "Abbreviation": "NOTAM",
+        "Definition": "Notice to Airmen",
+        "createdAt": "2014-06-09T17:42:03.924Z",
+        "objectId": "9uoAjagZgr",
+        "updatedAt": "2014-06-09T20:17:43.810Z"
+    },
+	{
+        "Abbreviation": "NOZ",
+        "Definition": "Normal Operating Zone",
+        "createdAt": "2014-06-09T17:42:04.633Z",
+        "objectId": "yH7l2tKGE8",
+        "updatedAt": "2014-06-09T20:17:52.628Z"
+    },
+	{
+        "Abbreviation": "NPA",
+        "Definition": "Non-Precision Approach",
+        "createdAt": "2014-06-09T17:42:06.157Z",
+        "objectId": "WOjIxQHVB3",
+        "updatedAt": "2014-06-09T20:18:06.142Z"
+    },
+	{
+        "Abbreviation": "NRV",
+        "Definition": "No-Return Valve",
+        "createdAt": "2014-06-09T17:42:06.610Z",
+        "objectId": "EGm0pHXUgc",
+        "updatedAt": "2014-06-09T20:18:14.161Z"
+    },
+	{
+        "Abbreviation": "NTZ",
+        "Definition": "No-Transgression Zone",
+        "createdAt": "2014-06-09T17:42:11.418Z",
+        "objectId": "XuReyqNI0V",
+        "updatedAt": "2014-06-09T20:18:40.145Z"
+    },
+	{
+        "Abbreviation": "NADP",
+        "Definition": "Noise Abatement Departure Procedure",
+        "createdAt": "2014-06-09T17:41:34.259Z",
+        "objectId": "4RzxqGT8Bc",
+        "updatedAt": "2014-06-09T20:15:07.027Z"
+    },
+	{
+        "Abbreviation": "NASA",
+        "Definition": "National Aeronautics and Space Administration",
+        "createdAt": "2014-06-09T17:41:40.896Z",
+        "objectId": "YTXakHHh8q",
+        "updatedAt": "2014-06-09T20:15:31.655Z"
+    },
+	{
+        "Abbreviation": "NATO",
+        "Definition": "North Atlantic Treaty Organization",
+        "createdAt": "2014-06-09T17:41:42.425Z",
+        "objectId": "Wur4KxmqNr",
+        "updatedAt": "2014-06-09T20:16:18.942Z"
+    },
+	{
+        "Abbreviation": "NATS",
+        "Definition": "North Atlantic Organized Track System",
+        "createdAt": "2014-06-09T17:41:43.309Z",
+        "objectId": "ZdlgwHj9X5",
+        "updatedAt": "2014-06-09T20:16:37.414Z"
+    },
+	{
+        "Abbreviation": "NDA",
+        "Definition": "Northern Domestic Airspace",
+        "createdAt": "2014-06-09T17:41:49.766Z",
+        "objectId": "T1cfzV6Odf",
+        "updatedAt": "2014-06-09T20:17:08.589Z"
+    },
+	{
+        "Abbreviation": "NTOFP",
+        "Definition": "Net Take-Off Flight Path",
+        "createdAt": "2014-06-09T17:42:10.014Z",
+        "objectId": "sfWnPJM8qB",
+        "updatedAt": "2014-06-09T20:18:24.270Z"
+    },
+	{
+        "Abbreviation": "NW",
+        "Definition": "North-West OR North Wheel",
+        "createdAt": "2014-06-09T17:42:13.489Z",
+        "objectId": "1obIN0mJ70",
+        "updatedAt": "2014-06-09T20:18:50.039Z"
+    },
+	{
+        "Abbreviation": "NWS",
+        "Definition": "North Warning System OR Nose Wheel Steering",
+        "createdAt": "2014-06-09T17:42:14.754Z",
+        "objectId": "9qq0i1cFaz",
+        "updatedAt": "2014-06-09T20:19:06.120Z"
+    },
+	{
+        "Abbreviation": "O/C",
+        "Definition": "Observer-Communicator",
+        "createdAt": "2014-06-09T20:20:22.371Z",
+        "objectId": "m6KtnXLe4K",
+        "updatedAt": "2014-06-09T20:21:15.847Z"
+    },
+	{
+        "Abbreviation": "OBST",
+        "Definition": "Obstacle",
+        "createdAt": "2014-06-09T20:20:28.269Z",
+        "objectId": "9Va3ynPqmS",
+        "updatedAt": "2014-06-09T20:21:55.376Z"
+    },
+	{
+        "Abbreviation": "OCA",
+        "Definition": "Oceanic Control Area",
+        "createdAt": "2014-06-09T20:20:30.568Z",
+        "objectId": "oNxa04bksK",
+        "updatedAt": "2014-06-09T20:22:16.376Z"
+    },
+	{
+        "Abbreviation": "OFST",
+        "Definition": "Offset",
+        "createdAt": "2014-06-09T20:20:43.719Z",
+        "objectId": "W1DibKUMR0",
+        "updatedAt": "2014-06-09T20:23:10.074Z"
+    },
+	{
+        "Abbreviation": "OFZ",
+        "Definition": "Obstacle Free Zone",
+        "createdAt": "2014-06-09T20:20:44.692Z",
+        "objectId": "uI8WtVpnXY",
+        "updatedAt": "2014-06-09T20:23:16.628Z"
+    },
+	{
+        "Abbreviation": "OM",
+        "Definition": "Outer Marker",
+        "createdAt": "2014-06-09T20:20:47.222Z",
+        "objectId": "gIP8jy40c2",
+        "updatedAt": "2014-06-09T20:23:46.368Z"
+    },
+	{
+        "Abbreviation": "OTS",
+        "Definition": "Organized Track System",
+        "createdAt": "2014-06-09T20:20:47.893Z",
+        "objectId": "duFN0emxbm",
+        "updatedAt": "2014-06-09T20:23:53.074Z"
+    },
+	{
+        "Abbreviation": "OTT",
+        "Definition": "Over-The-Top",
+        "createdAt": "2014-06-09T20:20:49.915Z",
+        "objectId": "bKfBOuvcna",
+        "updatedAt": "2014-06-09T20:24:01.419Z"
+    },
+	{
+        "Abbreviation": "OVHT",
+        "Definition": "Overheat",
+        "createdAt": "2014-06-09T20:20:51.127Z",
+        "objectId": "bY0VVHPSHH",
+        "updatedAt": "2014-06-09T20:24:09.121Z"
+    },
+	{
+        "Abbreviation": "OVSPD",
+        "Definition": "Overspeed",
+        "createdAt": "2014-06-09T20:20:52.373Z",
+        "objectId": "63aNTV8jfc",
+        "updatedAt": "2014-06-09T20:24:13.170Z"
+    },
+	{
+        "Abbreviation": "OXY",
+        "Definition": "Oxygen",
+        "createdAt": "2014-06-09T20:20:59.423Z",
+        "objectId": "zSztJHhQIY",
+        "updatedAt": "2014-06-09T20:24:22.941Z"
+    },
+	{
+        "Abbreviation": "OAC",
+        "Definition": "Oceanic Area Control Center",
+        "createdAt": "2014-06-09T20:20:24.187Z",
+        "objectId": "EIi7XGIK1S",
+        "updatedAt": "2014-06-09T20:21:25.459Z"
+    },
+	{
+        "Abbreviation": "OAS",
+        "Definition": "Obstacle Assessment Surface",
+        "createdAt": "2014-06-09T20:20:24.985Z",
+        "objectId": "MzYTJe00lR",
+        "updatedAt": "2014-06-09T20:21:33.876Z"
+    },
+	{
+        "Abbreviation": "OAT",
+        "Definition": "Outside Air Temperature OR Operational Air Traffic",
+        "createdAt": "2014-06-09T20:20:27.296Z",
+        "objectId": "pjLcTLFUPg",
+        "updatedAt": "2014-06-09T20:21:48.225Z"
+    },
+	{
+        "Abbreviation": "OBSTTOM",
+        "Definition": "Obstacle Take-Off Mass",
+        "createdAt": "2014-06-09T20:20:29.790Z",
+        "objectId": "rB3u3EsQmy",
+        "updatedAt": "2014-06-09T20:22:04.072Z"
+    },
+	{
+        "Abbreviation": "OCH",
+        "Definition": "Obstacle Clearance Height",
+        "createdAt": "2014-06-09T20:20:32.847Z",
+        "objectId": "0hCTPtJw6e",
+        "updatedAt": "2014-06-09T20:22:25.033Z"
+    },
+	{
+        "Abbreviation": "OCL",
+        "Definition": "Obstacle Clearance Limit",
+        "createdAt": "2014-06-09T20:20:33.845Z",
+        "objectId": "MFPDsbDdFN",
+        "updatedAt": "2014-06-09T20:22:34.299Z"
+    },
+	{
+        "Abbreviation": "ODALS",
+        "Definition": "Omnidirectional Approach Lighting System",
+        "createdAt": "2014-06-09T20:20:37.177Z",
+        "objectId": "K4WGGcf7OI",
+        "updatedAt": "2014-06-09T20:22:50.770Z"
+    },
+	{
+        "Abbreviation": "ODP",
+        "Definition": "Obstacle Departure Procedure",
+        "createdAt": "2014-06-09T20:20:38.428Z",
+        "objectId": "naSglkCDOp",
+        "updatedAt": "2014-06-09T20:23:01.063Z"
+    },
+	{
+        "Abbreviation": "OIS",
+        "Definition": "Obstacle Identification Slope",
+        "createdAt": "2014-06-09T20:20:45.503Z",
+        "objectId": "0nB64RR1Jp",
+        "updatedAt": "2014-06-09T20:23:29.311Z"
+    },
+	{
+        "Abbreviation": "OCS",
+        "Definition": "Obstacle Clearance Surface",
+        "createdAt": "2014-06-09T20:20:36.107Z",
+        "objectId": "xaah6LQgwC",
+        "updatedAt": "2014-06-09T20:24:52.860Z"
+    },
+	{
+        "Abbreviation": "PAC",
+        "Definition": "Pacific",
+        "createdAt": "2014-06-09T20:27:26.695Z",
+        "objectId": "L7Cl3KU7T4",
+        "updatedAt": "2014-06-09T20:34:32.224Z"
+    },
+	{
+        "Abbreviation": "PAL",
+        "Definition": "Peripheral Station",
+        "createdAt": "2014-06-09T20:27:28.729Z",
+        "objectId": "LaMSN6qO8L",
+        "updatedAt": "2014-06-09T20:34:41.063Z"
+    },
+	{
+        "Abbreviation": "PB",
+        "Definition": "Push Button",
+        "createdAt": "2014-06-09T20:27:38.377Z",
+        "objectId": "OA42Ti08K3",
+        "updatedAt": "2014-06-09T20:35:52.585Z"
+    },
+	{
+        "Abbreviation": "PCC",
+        "Definition": "Pilot Competency Check",
+        "createdAt": "2014-06-09T20:27:41.039Z",
+        "objectId": "IlPhfM5i3U",
+        "updatedAt": "2014-06-09T20:36:01.433Z"
+    },
+	{
+        "Abbreviation": "PDC",
+        "Definition": "Pre-Departure Check",
+        "createdAt": "2014-06-09T20:27:43.043Z",
+        "objectId": "Gy8yycppHP",
+        "updatedAt": "2014-06-09T20:36:25.156Z"
+    },
+	{
+        "Abbreviation": "PERF",
+        "Definition": "Performance",
+        "createdAt": "2014-06-09T20:27:52.574Z",
+        "objectId": "AORPEZCEka",
+        "updatedAt": "2014-06-09T20:36:41.591Z"
+    },
+	{
+        "Abbreviation": "PET",
+        "Definition": "Point of Equal Time",
+        "createdAt": "2014-06-09T20:27:56.769Z",
+        "objectId": "xoAOPOVw7I",
+        "updatedAt": "2014-06-09T20:36:47.693Z"
+    },
+	{
+        "Abbreviation": "PF",
+        "Definition": "Pilot Flying",
+        "createdAt": "2014-06-09T20:27:57.702Z",
+        "objectId": "JTZ76WRgdw",
+        "updatedAt": "2014-06-09T20:36:52.353Z"
+    },
+	{
+        "Abbreviation": "PFD",
+        "Definition": "Primary Flight Display",
+        "createdAt": "2014-06-09T20:27:58.808Z",
+        "objectId": "V5NmoxGz2e",
+        "updatedAt": "2014-06-09T20:37:00.259Z"
+    },
+	{
+        "Abbreviation": "PIC",
+        "Definition": "Pilot-In-Command",
+        "createdAt": "2014-06-09T20:28:04.473Z",
+        "objectId": "1AikuamVqE",
+        "updatedAt": "2014-06-09T20:37:24.917Z"
+    },
+	{
+        "Abbreviation": "PIREP",
+        "Definition": "Pilot Weather Report",
+        "createdAt": "2014-06-09T20:28:07.470Z",
+        "objectId": "Fcg33CuyRh",
+        "updatedAt": "2014-06-09T20:37:32.128Z"
+    },
+	{
+        "Abbreviation": "PLR",
+        "Definition": "Private Label Rights",
+        "createdAt": "2014-06-09T20:28:12.385Z",
+        "objectId": "eqeRvk2PnB",
+        "updatedAt": "2014-06-09T20:41:37.364Z"
+    },
+	{
+        "Abbreviation": "PNR",
+        "Definition": "Point of No Return",
+        "createdAt": "2014-06-09T20:28:34.401Z",
+        "objectId": "g2xOdZ8DLV",
+        "updatedAt": "2014-06-09T20:38:37.882Z"
+    },
+	{
+        "Abbreviation": "POS",
+        "Definition": "Position",
+        "createdAt": "2014-06-09T20:28:39.661Z",
+        "objectId": "NZwHZ67LHs",
+        "updatedAt": "2014-06-09T20:38:47.038Z"
+    },
+	{
+        "Abbreviation": "PPOS",
+        "Definition": "Present Position",
+        "createdAt": "2014-06-09T20:28:42.945Z",
+        "objectId": "ou7evqsdR5",
+        "updatedAt": "2014-06-09T20:38:58.217Z"
+    },
+	{
+        "Abbreviation": "PRED",
+        "Definition": "Prediction",
+        "createdAt": "2014-06-09T20:28:46.131Z",
+        "objectId": "y1frVasXu6",
+        "updatedAt": "2014-06-09T20:39:15.493Z"
+    },
+	{
+        "Abbreviation": "PRFG",
+        "Definition": "Becoming Fog",
+        "createdAt": "2014-06-09T20:28:48.220Z",
+        "objectId": "yljzIZ595s",
+        "updatedAt": "2014-06-09T20:39:21.084Z"
+    },
+	{
+        "Abbreviation": "PROC T",
+        "Definition": "Procedure Turn",
+        "createdAt": "2014-06-09T20:29:00.076Z",
+        "objectId": "RYMmZvWl2Y",
+        "updatedAt": "2014-06-09T20:39:44.486Z"
+    },
+	{
+        "Abbreviation": "PROG",
+        "Definition": "Progress Message",
+        "createdAt": "2014-06-09T20:29:02.311Z",
+        "objectId": "NmwREMrewV",
+        "updatedAt": "2014-06-09T20:39:52.180Z"
+    },
+	{
+        "Abbreviation": "PRR",
+        "Definition": "Pulse Repetition Rate",
+        "createdAt": "2014-06-09T20:29:03.567Z",
+        "objectId": "GGsdN25XIf",
+        "updatedAt": "2014-06-09T20:40:01.969Z"
+    },
+	{
+        "Abbreviation": "PSI",
+        "Definition": "Pounds per Square Inch",
+        "createdAt": "2014-06-09T20:29:04.921Z",
+        "objectId": "r8Pom7WoiI",
+        "updatedAt": "2014-06-09T20:40:12.472Z"
+    },
+	{
+        "Abbreviation": "PSR",
+        "Definition": "Point of Safe Return",
+        "createdAt": "2014-06-09T20:29:10.440Z",
+        "objectId": "bRfrneJj2K",
+        "updatedAt": "2014-06-09T20:40:24.183Z"
+    },
+	{
+        "Abbreviation": "PT",
+        "Definition": "Procedure Turn",
+        "createdAt": "2014-06-09T20:29:14.947Z",
+        "objectId": "EseQ398Lrg",
+        "updatedAt": "2014-06-09T20:40:30.259Z"
+    },
+	{
+        "Abbreviation": "PTS",
+        "Definition": "Polar Track System",
+        "createdAt": "2014-06-09T20:29:15.965Z",
+        "objectId": "lip7N2QxyK",
+        "updatedAt": "2014-06-09T20:40:42.129Z"
+    },
+	{
+        "Abbreviation": "PWR",
+        "Definition": "Power",
+        "createdAt": "2014-06-09T20:30:08.527Z",
+        "objectId": "9h1203iWqG",
+        "updatedAt": "2014-06-09T20:40:43.764Z"
+    },
+	{
+        "Abbreviation": "PANS",
+        "Definition": "Procedures for Air Navigation Services",
+        "createdAt": "2014-06-09T20:27:29.982Z",
+        "objectId": "0WeZM24jjf",
+        "updatedAt": "2014-06-09T20:34:53.028Z"
+    },
+	{
+        "Abbreviation": "PAP",
+        "Definition": "Precision Approach Procedure",
+        "createdAt": "2014-06-09T20:27:31.286Z",
+        "objectId": "uVY2RunLTV",
+        "updatedAt": "2014-06-09T20:35:02.257Z"
+    },
+	{
+        "Abbreviation": "PAPI",
+        "Definition": "Precision Approach Path Indicator",
+        "createdAt": "2014-06-09T20:27:32.985Z",
+        "objectId": "YZLnJIRIJY",
+        "updatedAt": "2014-06-09T20:35:13.948Z"
+    },
+	{
+        "Abbreviation": "PAR",
+        "Definition": "Precision Approach Radar",
+        "createdAt": "2014-06-09T20:27:33.730Z",
+        "objectId": "Oc5FyeIP7x",
+        "updatedAt": "2014-06-09T20:35:21.831Z"
+    },
+	{
+        "Abbreviation": "PAS",
+        "Definition": "Private Advisory Station",
+        "createdAt": "2014-06-09T20:27:34.586Z",
+        "objectId": "G7TQzAt8MF",
+        "updatedAt": "2014-06-09T20:35:30.515Z"
+    },
+	{
+        "Abbreviation": "PATWAS",
+        "Definition": "Pilots' Automatic Telephone Weather Answering Service",
+        "createdAt": "2014-06-09T20:27:37.069Z",
+        "objectId": "au8q3JFgYL",
+        "updatedAt": "2014-06-09T20:35:48.151Z"
+    },
+	{
+        "Abbreviation": "PCN",
+        "Definition": "Pavement Classification Number (ICAO)",
+        "createdAt": "2014-06-09T20:27:42.116Z",
+        "objectId": "LL7kr2Qt8c",
+        "updatedAt": "2014-06-09T20:36:16.945Z"
+    },
+	{
+        "Abbreviation": "PDR",
+        "Definition": "Preferential Departure Route",
+        "createdAt": "2014-06-09T20:27:44.243Z",
+        "objectId": "nUd4aAYvV1",
+        "updatedAt": "2014-06-09T20:36:33.834Z"
+    },
+	{
+        "Abbreviation": "PIB",
+        "Definition": "Pre-Flight Information Bulletin",
+        "createdAt": "2014-06-09T20:28:02.040Z",
+        "objectId": "LjHMcqeFEG",
+        "updatedAt": "2014-06-09T20:37:15.904Z"
+    },
+	{
+        "Abbreviation": "PLASI",
+        "Definition": "Pulsed Light Approach Slope Indicator",
+        "createdAt": "2014-06-09T20:28:08.842Z",
+        "objectId": "BW2XFg9Q90",
+        "updatedAt": "2014-06-09T20:37:44.023Z"
+    },
+	{
+        "Abbreviation": "PLLM",
+        "Definition": "Performance Limiting Landing Mass",
+        "createdAt": "2014-06-09T20:28:10.042Z",
+        "objectId": "lgRZJJwbeC",
+        "updatedAt": "2014-06-09T20:37:53.147Z"
+    },
+	{
+        "Abbreviation": "PLTOM",
+        "Definition": "Performance Limiting Take-Off Mass",
+        "createdAt": "2014-06-09T20:28:13.842Z",
+        "objectId": "vYK9pgm1mP",
+        "updatedAt": "2014-06-09T20:38:13.595Z"
+    },
+	{
+        "Abbreviation": "PM",
+        "Definition": "Pulse Modulation OR Pilot Monitoring ",
+        "createdAt": "2014-06-09T20:28:14.653Z",
+        "objectId": "wOIw4vbjAN",
+        "updatedAt": "2014-06-09T20:38:24.408Z"
+    },
+	{
+        "Abbreviation": "PPR",
+        "Definition": "Prior Permission Required",
+        "createdAt": "2014-06-09T20:28:44.661Z",
+        "objectId": "mzzauRJhhK",
+        "updatedAt": "2014-06-09T20:39:06.907Z"
+    },
+	{
+        "Abbreviation": "PRIM",
+        "Definition": "Primary Flight Control Computer ",
+        "createdAt": "2014-06-09T20:28:51.086Z",
+        "objectId": "5IFLkYO4Yo",
+        "updatedAt": "2014-06-09T20:39:30.442Z"
+    },
+	{
+        "Abbreviation": "PRM",
+        "Definition": "Precision Runway Monitor",
+        "createdAt": "2014-06-09T20:28:58.384Z",
+        "objectId": "NlzlBeenct",
+        "updatedAt": "2014-06-09T20:39:38.552Z"
+    },
+	{
+        "Abbreviation": "PPC",
+        "Definition": "Private Pilot Certificate",
+        "createdAt": "2014-06-09T20:28:40.809Z",
+        "objectId": "P1PK0qxn0d",
+        "updatedAt": "2014-06-09T20:42:01.368Z"
+    },
+	{
+        "Abbreviation": "QT",
+        "Definition": "Quart",
+        "createdAt": "2014-06-09T20:42:26.844Z",
+        "objectId": "vYwJ95tWFt",
+        "updatedAt": "2014-06-09T20:42:53.049Z"
+    },
+	{
+        "Abbreviation": "QRM",
+        "Definition": "Quick Reference Manual",
+        "createdAt": "2014-06-09T20:42:28.834Z",
+        "objectId": "9vvTIBkTgr",
+        "updatedAt": "2014-06-09T20:42:49.388Z"
+    },
+	{
+        "Abbreviation": "QTY",
+        "Definition": "Quantity",
+        "createdAt": "2014-06-09T20:42:29.133Z",
+        "objectId": "S9O9ilfJNN",
+        "updatedAt": "2014-06-09T20:42:57.491Z"
+    },
+	{
+        "Abbreviation": "QFE",
+        "Definition": "Field Elevation Atmosphere Pressure",
+        "createdAt": "2014-06-09T20:42:22.615Z",
+        "objectId": "XWLpeZefnX",
+        "updatedAt": "2014-06-09T20:42:41.033Z"
+    },
+	{
+        "Abbreviation": "RAD",
+        "Definition": "Radio",
+        "createdAt": "2014-06-09T20:45:25.580Z",
+        "objectId": "7ylnDf1MKU",
+        "updatedAt": "2014-06-09T20:47:27.441Z"
+    },
+	{
+        "Abbreviation": "RAT",
+        "Definition": "Ram Air Turbine",
+        "createdAt": "2014-06-09T20:45:28.789Z",
+        "objectId": "7e4upO9O7X",
+        "updatedAt": "2014-06-09T20:47:48.819Z"
+    },
+	{
+        "Abbreviation": "RB",
+        "Definition": "Relative Bearing",
+        "createdAt": "2014-06-09T20:45:29.724Z",
+        "objectId": "zi4L5U62yk",
+        "updatedAt": "2014-06-09T20:49:21.120Z"
+    },
+	{
+        "Abbreviation": "RCDR",
+        "Definition": "Recorder",
+        "createdAt": "2014-06-09T20:45:31.148Z",
+        "objectId": "ZVdp6wwt4N",
+        "updatedAt": "2014-06-09T20:49:26.843Z"
+    },
+	{
+        "Abbreviation": "RCL",
+        "Definition": "Recall",
+        "createdAt": "2014-06-09T20:45:32.232Z",
+        "objectId": "rs3xqPlily",
+        "updatedAt": "2014-06-09T20:49:32.896Z"
+    },
+	{
+        "Abbreviation": "REDL",
+        "Definition": "Runway Edge Lighting",
+        "createdAt": "2014-06-09T20:45:37.280Z",
+        "objectId": "E3CmVMXouO",
+        "updatedAt": "2014-06-09T20:50:00.973Z"
+    },
+	{
+        "Abbreviation": "REF",
+        "Definition": "Reference",
+        "createdAt": "2014-06-09T20:45:42.204Z",
+        "objectId": "lsYrxIqEhH",
+        "updatedAt": "2014-06-09T20:50:09.276Z"
+    },
+	{
+        "Abbreviation": "RENL",
+        "Definition": "Runway End Lighting",
+        "createdAt": "2014-06-09T20:45:44.367Z",
+        "objectId": "cr4zenzATl",
+        "updatedAt": "2014-06-09T20:50:28.949Z"
+    },
+	{
+        "Abbreviation": "REV",
+        "Definition": "Reverse",
+        "createdAt": "2014-06-09T20:45:46.164Z",
+        "objectId": "n9XcarW3Ay",
+        "updatedAt": "2014-06-09T20:50:41.207Z"
+    },
+	{
+        "Abbreviation": "RLM",
+        "Definition": "Regulated Landing Mass",
+        "createdAt": "2014-06-09T20:45:49.108Z",
+        "objectId": "PDAx6N7k1A",
+        "updatedAt": "2014-06-09T20:51:20.534Z"
+    },
+	{
+        "Abbreviation": "RMP",
+        "Definition": "Radio Management Panel",
+        "createdAt": "2014-06-09T20:45:51.734Z",
+        "objectId": "7CcvLokoIN",
+        "updatedAt": "2014-06-09T20:51:43.382Z"
+    },
+	{
+        "Abbreviation": "RNAV",
+        "Definition": "Area Navigation",
+        "createdAt": "2014-06-09T20:45:55.024Z",
+        "objectId": "EQE3GrDZon",
+        "updatedAt": "2014-06-09T20:51:51.774Z"
+    },
+	{
+        "Abbreviation": "RONLY",
+        "Definition": "Receiver Only",
+        "createdAt": "2014-06-09T20:46:06.126Z",
+        "objectId": "aXydFFduvX",
+        "updatedAt": "2014-06-09T20:52:24.559Z"
+    },
+	{
+        "Abbreviation": "RPL",
+        "Definition": "Repetitive Flight Plan",
+        "createdAt": "2014-06-09T20:46:09.622Z",
+        "objectId": "xX9hRMTptu",
+        "updatedAt": "2014-06-09T20:52:42.841Z"
+    },
+	{
+        "Abbreviation": "RPM",
+        "Definition": "Revolutions Per Minute",
+        "createdAt": "2014-06-09T20:46:10.707Z",
+        "objectId": "2gfdkj4Hv5",
+        "updatedAt": "2014-06-09T20:53:01.954Z"
+    },
+	{
+        "Abbreviation": "RPS",
+        "Definition": "Radar Position Symbol",
+        "createdAt": "2014-06-09T20:46:11.616Z",
+        "objectId": "Yn2t1sJHW2",
+        "updatedAt": "2014-06-09T20:53:10.459Z"
+    },
+	{
+        "Abbreviation": "RRC",
+        "Definition": "Remote Reading Compass",
+        "createdAt": "2014-06-09T20:46:12.665Z",
+        "objectId": "UFOowyVMVz",
+        "updatedAt": "2014-06-09T20:53:21.557Z"
+    },
+	{
+        "Abbreviation": "RSV",
+        "Definition": "Reserve",
+        "createdAt": "2014-06-09T20:46:14.646Z",
+        "objectId": "rHyVsLXfGG",
+        "updatedAt": "2014-06-09T21:14:42.200Z"
+    },
+	{
+        "Abbreviation": "RTE",
+        "Definition": "Route",
+        "createdAt": "2014-06-09T20:46:20.227Z",
+        "objectId": "NcZttha7DG",
+        "updatedAt": "2014-06-09T20:53:54.845Z"
+    },
+	{
+        "Abbreviation": "RTO",
+        "Definition": "Rejected Take-Off",
+        "createdAt": "2014-06-09T20:46:31.540Z",
+        "objectId": "wda6hGa3jU",
+        "updatedAt": "2014-06-09T20:54:47.648Z"
+    },
+	{
+        "Abbreviation": "RVR",
+        "Definition": "Runway Visual Range",
+        "createdAt": "2014-06-09T20:46:36.444Z",
+        "objectId": "QPWJvJgavE",
+        "updatedAt": "2014-06-09T20:55:20.136Z"
+    },
+	{
+        "Abbreviation": "RWY",
+        "Definition": "Runway",
+        "createdAt": "2014-06-09T20:46:43.588Z",
+        "objectId": "Fut3daw4wx",
+        "updatedAt": "2014-06-09T20:55:37.903Z"
+    },
+	{
+        "Abbreviation": "RA",
+        "Definition": "Radio Altitude OR Resolution Alert",
+        "createdAt": "2014-06-09T20:45:20.165Z",
+        "objectId": "93lncuBrMz",
+        "updatedAt": "2014-06-09T20:47:04.181Z"
+    },
+	{
+        "Abbreviation": "RAAS",
+        "Definition": "Remote Aerodrome Advisory Service",
+        "createdAt": "2014-06-09T20:45:22.818Z",
+        "objectId": "Tkic4zTCt8",
+        "updatedAt": "2014-06-09T20:47:14.247Z"
+    },
+	{
+        "Abbreviation": "RACC",
+        "Definition": "Rotor Active Clearance Control",
+        "createdAt": "2014-06-09T20:45:23.785Z",
+        "objectId": "ZUSgWDEKT0",
+        "updatedAt": "2014-06-09T20:47:24.268Z"
+    },
+	{
+        "Abbreviation": "RAIM",
+        "Definition": "Receiver Autonomous Integrity Monitory",
+        "createdAt": "2014-06-09T20:45:27.304Z",
+        "objectId": "qPk58B2Puw",
+        "updatedAt": "2014-06-09T20:47:38.590Z"
+    },
+	{
+        "Abbreviation": "RCLL",
+        "Definition": "Runway Center Line Lighting",
+        "createdAt": "2014-06-09T20:45:33.607Z",
+        "objectId": "mhZs4aZIVl",
+        "updatedAt": "2014-06-09T20:49:42.298Z"
+    },
+	{
+        "Abbreviation": "RCO",
+        "Definition": "Remote Communications Outlet",
+        "createdAt": "2014-06-09T20:45:35.818Z",
+        "objectId": "hpi3cBz195",
+        "updatedAt": "2014-06-09T20:49:53.738Z"
+    },
+	{
+        "Abbreviation": "REIL",
+        "Definition": "Runway End Indicator Lighting",
+        "createdAt": "2014-06-09T20:45:43.221Z",
+        "objectId": "346shnRf1g",
+        "updatedAt": "2014-06-09T20:50:19.218Z"
+    },
+	{
+        "Abbreviation": "RESA",
+        "Definition": "Runway End Safety Area",
+        "createdAt": "2014-06-09T20:45:45.299Z",
+        "objectId": "kV8zbpCAiB",
+        "updatedAt": "2014-06-09T20:50:37.173Z"
+    },
+	{
+        "Abbreviation": "RILS",
+        "Definition": "Runway Identification Lights",
+        "createdAt": "2014-06-09T20:45:47.267Z",
+        "objectId": "t9GoXP2lV9",
+        "updatedAt": "2014-06-09T20:50:56.165Z"
+    },
+	{
+        "Abbreviation": "RLLS",
+        "Definition": "Runway Lead-In Lighting System",
+        "createdAt": "2014-06-09T20:45:48.305Z",
+        "objectId": "fo4ooGbYXG",
+        "updatedAt": "2014-06-09T20:51:08.809Z"
+    },
+	{
+        "Abbreviation": "RMI",
+        "Definition": "Radio Magnetic Indicator",
+        "createdAt": "2014-06-09T20:45:50.635Z",
+        "objectId": "WLwzzuUQQY",
+        "updatedAt": "2014-06-09T20:51:30.570Z"
+    },
+	{
+        "Abbreviation": "RNP",
+        "Definition": "Required Navigation Performance",
+        "createdAt": "2014-06-09T20:45:58.187Z",
+        "objectId": "8AcwZcLe69",
+        "updatedAt": "2014-06-09T20:52:01.408Z"
+    },
+	{
+        "Abbreviation": "RNPC",
+        "Definition": "Required Navigation Performance Capability",
+        "createdAt": "2014-06-09T20:46:04.752Z",
+        "objectId": "fr64lPqfP6",
+        "updatedAt": "2014-06-09T20:52:18.552Z"
+    },
+	{
+        "Abbreviation": "RPI",
+        "Definition": "Radar Position Indication",
+        "createdAt": "2014-06-09T20:46:08.649Z",
+        "objectId": "h8epHc60dF",
+        "updatedAt": "2014-06-09T20:52:34.168Z"
+    },
+	{
+        "Abbreviation": "RSC",
+        "Definition": "Runway Surface Condition",
+        "createdAt": "2014-06-09T20:46:13.695Z",
+        "objectId": "tlUSj2k9vm",
+        "updatedAt": "2014-06-09T20:53:30.087Z"
+    },
+	{
+        "Abbreviation": "RTBI",
+        "Definition": "Rate-Of-Turn and Balance Indicator",
+        "createdAt": "2014-06-09T20:46:17.531Z",
+        "objectId": "37caftcMuf",
+        "updatedAt": "2014-06-09T20:53:51.172Z"
+    },
+	{
+        "Abbreviation": "RTF",
+        "Definition": "Radiotelephony Frequency",
+        "createdAt": "2014-06-09T20:46:22.847Z",
+        "objectId": "rSDXCbQG1T",
+        "updatedAt": "2014-06-09T20:54:04.827Z"
+    },
+	{
+        "Abbreviation": "RTHL",
+        "Definition": "Runway Threshold Lighting",
+        "createdAt": "2014-06-09T20:46:24.240Z",
+        "objectId": "KdPNHXRpl3",
+        "updatedAt": "2014-06-09T20:54:12.169Z"
+    },
+	{
+        "Abbreviation": "RTIL",
+        "Definition": "Runway Threshold Indicator Lighting",
+        "createdAt": "2014-06-09T20:46:26.842Z",
+        "objectId": "qCe5277Tac",
+        "updatedAt": "2014-06-09T20:54:23.513Z"
+    },
+	{
+        "Abbreviation": "RTOM",
+        "Definition": "Regulated Take-Off Mass",
+        "createdAt": "2014-06-09T20:46:34.037Z",
+        "objectId": "t4yiXSHaya",
+        "updatedAt": "2014-06-09T20:54:54.680Z"
+    },
+	{
+        "Abbreviation": "RVOP",
+        "Definition": "Reduced Visibility Operations Plan",
+        "createdAt": "2014-06-09T20:46:35.232Z",
+        "objectId": "E8KKGCILrA",
+        "updatedAt": "2014-06-09T20:55:13.746Z"
+    },
+	{
+        "Abbreviation": "RVSM",
+        "Definition": "Reduced Vertical Separation Minimum",
+        "createdAt": "2014-06-09T20:46:38.502Z",
+        "objectId": "FVPI7vcIJX",
+        "updatedAt": "2014-06-09T20:55:34.525Z"
+    },
+	{
+        "Abbreviation": "S/C",
+        "Definition": "Step Climb",
+        "createdAt": "2014-06-09T21:03:26.787Z",
+        "objectId": "EK7GOhPXqI",
+        "updatedAt": "2014-06-09T21:06:19.639Z"
+    },
+	{
+        "Abbreviation": "S/D",
+        "Definition": "Step Descent",
+        "createdAt": "2014-06-09T21:03:29.064Z",
+        "objectId": "Q8euQGGRYj",
+        "updatedAt": "2014-06-09T21:06:26.008Z"
+    },
+	{
+        "Abbreviation": "SAT",
+        "Definition": "Static Air Temperature",
+        "createdAt": "2014-06-09T21:03:32.681Z",
+        "objectId": "6eYeBcUiJ8",
+        "updatedAt": "2014-06-09T21:07:06.540Z"
+    },
+	{
+        "Abbreviation": "SC",
+        "Definition": "Single Chime",
+        "createdAt": "2014-06-09T21:03:33.316Z",
+        "objectId": "5llgkKtgNB",
+        "updatedAt": "2014-06-09T21:07:14.226Z"
+    },
+	{
+        "Abbreviation": "SCA",
+        "Definition": "Southern Control Area",
+        "createdAt": "2014-06-09T21:03:33.959Z",
+        "objectId": "Ypjz0o2VIg",
+        "updatedAt": "2014-06-09T21:07:22.251Z"
+    },
+	{
+        "Abbreviation": "SD",
+        "Definition": "System Display",
+        "createdAt": "2014-06-09T21:03:37.908Z",
+        "objectId": "y7ojEjBdWS",
+        "updatedAt": "2014-06-09T21:07:40.710Z"
+    },
+	{
+        "Abbreviation": "SDCU",
+        "Definition": "Smoke Detection",
+        "createdAt": "2014-06-09T21:03:41.149Z",
+        "objectId": "kDUmfvKlLP",
+        "updatedAt": "2014-06-09T21:08:17.774Z"
+    },
+	{
+        "Abbreviation": "SM",
+        "Definition": "Statute Miles",
+        "createdAt": "2014-06-09T21:04:05.894Z",
+        "objectId": "hcuB4DqAvL",
+        "updatedAt": "2014-06-09T21:09:58.591Z"
+    },
+	{
+        "Abbreviation": "SNR",
+        "Definition": "Signal-To-Noise Ratio",
+        "createdAt": "2014-06-09T21:04:06.836Z",
+        "objectId": "3Tlrd2WjZ3",
+        "updatedAt": "2014-06-09T21:10:12.250Z"
+    },
+	{
+        "Abbreviation": "SPD",
+        "Definition": "Speed",
+        "createdAt": "2014-06-09T21:04:09.367Z",
+        "objectId": "O6iog0QcY4",
+        "updatedAt": "2014-06-09T21:10:47.884Z"
+    },
+	{
+        "Abbreviation": "SPD LIM",
+        "Definition": "Speed Limit",
+        "createdAt": "2014-06-09T21:04:12.568Z",
+        "objectId": "9Z7jaBssqr",
+        "updatedAt": "2014-06-09T21:10:54.234Z"
+    },
+	{
+        "Abbreviation": "SPLR",
+        "Definition": "Spoiler",
+        "createdAt": "2014-06-09T21:04:24.855Z",
+        "objectId": "8SNmLJeYru",
+        "updatedAt": "2014-06-09T21:11:47.883Z"
+    },
+	{
+        "Abbreviation": "SRS",
+        "Definition": "Speed Reference System",
+        "createdAt": "2014-06-09T21:04:25.674Z",
+        "objectId": "4nOPkZeJyX",
+        "updatedAt": "2014-06-09T21:11:56.142Z"
+    },
+	{
+        "Abbreviation": "SSB",
+        "Definition": "Single Sideband",
+        "createdAt": "2014-06-09T21:04:27.336Z",
+        "objectId": "aEmekhmCIq",
+        "updatedAt": "2014-06-09T21:12:01.723Z"
+    },
+	{
+        "Abbreviation": "STAT INV",
+        "Definition": "Static Inverter",
+        "createdAt": "2014-06-09T21:04:34.660Z",
+        "objectId": "nGpVtq19WJ",
+        "updatedAt": "2014-06-09T21:12:32.984Z"
+    },
+	{
+        "Abbreviation": "STBY",
+        "Definition": "Standby",
+        "createdAt": "2014-06-09T21:04:37.398Z",
+        "objectId": "yODF4AlWnP",
+        "updatedAt": "2014-06-09T21:12:39.727Z"
+    },
+	{
+        "Abbreviation": "STD",
+        "Definition": "Standard",
+        "createdAt": "2014-06-09T21:04:38.287Z",
+        "objectId": "sICOSxekCE",
+        "updatedAt": "2014-06-09T21:12:45.036Z"
+    },
+	{
+        "Abbreviation": "STRG",
+        "Definition": "Steering",
+        "createdAt": "2014-06-09T21:04:54.877Z",
+        "objectId": "UvAIKYcVYk",
+        "updatedAt": "2014-06-09T21:13:04.462Z"
+    },
+	{
+        "Abbreviation": "STS",
+        "Definition": "Status",
+        "createdAt": "2014-06-09T21:04:55.789Z",
+        "objectId": "5L0dMxGJDs",
+        "updatedAt": "2014-06-09T21:13:08.478Z"
+    },
+	{
+        "Abbreviation": "SVFR",
+        "Definition": "Special VFR",
+        "createdAt": "2014-06-09T21:04:58.740Z",
+        "objectId": "b8zNRecQY9",
+        "updatedAt": "2014-06-09T21:13:16.187Z"
+    },
+	{
+        "Abbreviation": "SW",
+        "Definition": "Switch",
+        "createdAt": "2014-06-09T21:04:59.496Z",
+        "objectId": "5Mn560KoFu",
+        "updatedAt": "2014-06-09T21:13:19.971Z"
+    },
+	{
+        "Abbreviation": "SWTG",
+        "Definition": "Switching",
+        "createdAt": "2014-06-09T21:05:01.718Z",
+        "objectId": "eCVBhAlDZ5",
+        "updatedAt": "2014-06-09T21:13:29.299Z"
+    },
+	{
+        "Abbreviation": "SYS",
+        "Definition": "System",
+        "createdAt": "2014-06-09T21:05:04.832Z",
+        "objectId": "tvpsMpp0wh",
+        "updatedAt": "2014-06-09T21:13:34.324Z"
+    },
+	{
+        "Abbreviation": "SALR",
+        "Definition": "Saturated Adiabatic Lapse Rate",
+        "createdAt": "2014-06-09T21:03:31.301Z",
+        "objectId": "f7gxVdt3xv",
+        "updatedAt": "2014-06-09T21:06:38.532Z"
+    },
+	{
+        "Abbreviation": "SAR",
+        "Definition": "Specific Air Range OR Search And Rescue",
+        "createdAt": "2014-06-09T21:03:31.969Z",
+        "objectId": "kaC9dzBdU4",
+        "updatedAt": "2014-06-09T21:06:52.484Z"
+    },
+	{
+        "Abbreviation": "SCDA",
+        "Definition": "Stabilized Constant Descent Angle",
+        "createdAt": "2014-06-09T21:03:34.784Z",
+        "objectId": "DBGsikYcm5",
+        "updatedAt": "2014-06-09T21:07:33.887Z"
+    },
+	{
+        "Abbreviation": "SDA",
+        "Definition": "Southern Domestic Airspace",
+        "createdAt": "2014-06-09T21:03:38.599Z",
+        "objectId": "7mhHat83S2",
+        "updatedAt": "2014-06-09T21:07:51.874Z"
+    },
+	{
+        "Abbreviation": "SDAC",
+        "Definition": "System Data Acquisition Concentrator",
+        "createdAt": "2014-06-09T21:03:39.638Z",
+        "objectId": "yVbMRJe7vV",
+        "updatedAt": "2014-06-09T21:08:09.047Z"
+    },
+	{
+        "Abbreviation": "SEC",
+        "Definition": "Secondary Flight Control Computer ",
+        "createdAt": "2014-06-09T21:03:44.167Z",
+        "objectId": "nti8qjQZdq",
+        "updatedAt": "2014-06-09T21:08:35.153Z"
+    },
+	{
+        "Abbreviation": "SELCAL",
+        "Definition": "Selective Calling System",
+        "createdAt": "2014-06-09T21:03:49.021Z",
+        "objectId": "xePbXuD8JY",
+        "updatedAt": "2014-06-09T21:08:48.363Z"
+    },
+	{
+        "Abbreviation": "SFC",
+        "Definition": "Specific Fuel Consumption",
+        "createdAt": "2014-06-09T21:03:50.889Z",
+        "objectId": "41NyHku1W2",
+        "updatedAt": "2014-06-09T21:08:59.318Z"
+    },
+	{
+        "Abbreviation": "SFCC",
+        "Definition": "Slat/Flap Control Computer",
+        "createdAt": "2014-06-09T21:03:53.851Z",
+        "objectId": "uJ5TwUXBUx",
+        "updatedAt": "2014-06-09T21:09:11.627Z"
+    },
+	{
+        "Abbreviation": "SFRA",
+        "Definition": "Special Flight Rules Area",
+        "createdAt": "2014-06-09T21:03:57.101Z",
+        "objectId": "w7OmNFEhW9",
+        "updatedAt": "2014-06-09T21:09:22.109Z"
+    },
+	{
+        "Abbreviation": "SID",
+        "Definition": "Standard Instrument Departure",
+        "createdAt": "2014-06-09T21:04:02.197Z",
+        "objectId": "tMuCKR6gmk",
+        "updatedAt": "2014-06-09T21:09:33.791Z"
+    },
+	{
+        "Abbreviation": "SIGMET",
+        "Definition": "Significant Meteorological Information",
+        "createdAt": "2014-06-09T21:04:03.272Z",
+        "objectId": "wHxa28oY5b",
+        "updatedAt": "2014-06-09T21:09:50.138Z"
+    },
+	{
+        "Abbreviation": "SOBT",
+        "Definition": "Scheduled Off-Block Time",
+        "createdAt": "2014-06-09T21:04:07.825Z",
+        "objectId": "bKebfrXzc3",
+        "updatedAt": "2014-06-09T21:10:29.068Z"
+    },
+	{
+        "Abbreviation": "SOP",
+        "Definition": "Standard Operating Procedure",
+        "createdAt": "2014-06-09T21:04:08.627Z",
+        "objectId": "dOyvZyT6xy",
+        "updatedAt": "2014-06-09T21:10:42.326Z"
+    },
+	{
+        "Abbreviation": "SPEC VIS",
+        "Definition": "Specified Takeoff Minimum Visibility",
+        "createdAt": "2014-06-09T21:04:15.720Z",
+        "objectId": "sU9T7oabWb",
+        "updatedAt": "2014-06-09T21:11:07.610Z"
+    },
+	{
+        "Abbreviation": "SPECI",
+        "Definition": "Aerodrome Special Meteorological Report",
+        "createdAt": "2014-06-09T21:04:20.653Z",
+        "objectId": "XcVrZqVGsE",
+        "updatedAt": "2014-06-09T21:11:30.137Z"
+    },
+	{
+        "Abbreviation": "SPIC",
+        "Definition": "Student Pilot-In-Command",
+        "createdAt": "2014-06-09T21:04:21.989Z",
+        "objectId": "aDS0PMNnSB",
+        "updatedAt": "2014-06-09T21:11:42.605Z"
+    },
+	{
+        "Abbreviation": "SSR",
+        "Definition": "Secondary Surveillance Radar",
+        "createdAt": "2014-06-09T21:04:30.995Z",
+        "objectId": "cCu1rYkhKw",
+        "updatedAt": "2014-06-09T21:12:13.169Z"
+    },
+	{
+        "Abbreviation": "STAR",
+        "Definition": "Standard Terminal Arrival Route",
+        "createdAt": "2014-06-09T21:04:31.898Z",
+        "objectId": "GdGJJB6I6Z",
+        "updatedAt": "2014-06-09T21:12:23.276Z"
+    },
+	{
+        "Abbreviation": "STOL Aircraft",
+        "Definition": "Short Takeoff and Landing Aircraft",
+        "createdAt": "2014-06-09T21:04:44.267Z",
+        "objectId": "Ynkd16bxMw",
+        "updatedAt": "2014-06-09T21:12:57.197Z"
+    },
+	{
+        "Abbreviation": "T-P",
+        "Definition": "Turn-Point",
+        "createdAt": "2014-06-11T15:31:12.413Z",
+        "objectId": "2UCFgvALfm",
+        "updatedAt": "2014-06-11T15:33:07.210Z"
+    },
+	{
+        "Abbreviation": "T-VOR",
+        "Definition": "Terminal VOR",
+        "createdAt": "2014-06-11T15:31:16.751Z",
+        "objectId": "RSb8mllFA5",
+        "updatedAt": "2014-06-11T15:33:13.452Z"
+    },
+	{
+        "Abbreviation": "T/D",
+        "Definition": "Top of Descent",
+        "createdAt": "2014-06-11T15:31:18.679Z",
+        "objectId": "obJx47HZ0l",
+        "updatedAt": "2014-06-11T15:33:27.259Z"
+    },
+	{
+        "Abbreviation": "TAS",
+        "Definition": "True Airspeed",
+        "createdAt": "2014-06-11T15:31:24.929Z",
+        "objectId": "fk6iKHJUNz",
+        "updatedAt": "2014-06-11T15:34:20.673Z"
+    },
+	{
+        "Abbreviation": "TAT",
+        "Definition": "Total Air Temperature",
+        "createdAt": "2014-06-11T15:31:26.536Z",
+        "objectId": "vV8FOlAk5F",
+        "updatedAt": "2014-06-11T15:34:27.790Z"
+    },
+	{
+        "Abbreviation": "TC",
+        "Definition": "Transport Canada",
+        "createdAt": "2014-06-11T15:31:27.348Z",
+        "objectId": "SRgB9xAX3F",
+        "updatedAt": "2014-06-11T15:34:36.801Z"
+    },
+	{
+        "Abbreviation": "TCA",
+        "Definition": "Terminal Control Area",
+        "createdAt": "2014-06-11T15:31:29.240Z",
+        "objectId": "1SOVwjjGGF",
+        "updatedAt": "2014-06-11T15:34:43.980Z"
+    },
+	{
+        "Abbreviation": "TCU",
+        "Definition": "Terminal Control Unit",
+        "createdAt": "2014-06-11T15:31:32.926Z",
+        "objectId": "Y5AX52L2Tr",
+        "updatedAt": "2014-06-11T15:35:09.688Z"
+    },
+	{
+        "Abbreviation": "TDZ",
+        "Definition": "Touchdown Zone",
+        "createdAt": "2014-06-11T15:31:39.127Z",
+        "objectId": "PsD3KsHpi4",
+        "updatedAt": "2014-06-11T15:35:19.094Z"
+    },
+	{
+        "Abbreviation": "TEMP",
+        "Definition": "Temperature",
+        "createdAt": "2014-06-11T15:31:45.915Z",
+        "objectId": "kAzkl5QAZH",
+        "updatedAt": "2014-06-11T15:36:02.663Z"
+    },
+	{
+        "Abbreviation": "TET",
+        "Definition": "Total Elapsed Time",
+        "createdAt": "2014-06-11T15:31:50.392Z",
+        "objectId": "cvRDQux2bQ",
+        "updatedAt": "2014-06-11T15:36:18.951Z"
+    },
+	{
+        "Abbreviation": "TFR",
+        "Definition": "Temporary Flight Restriction",
+        "createdAt": "2014-06-11T15:31:51.467Z",
+        "objectId": "cN432JvFJT",
+        "updatedAt": "2014-06-11T15:36:34.693Z"
+    },
+	{
+        "Abbreviation": "THR",
+        "Definition": "Thrust",
+        "createdAt": "2014-06-11T15:31:57.480Z",
+        "objectId": "3WhiEeTFzM",
+        "updatedAt": "2014-06-11T15:36:40.498Z"
+    },
+	{
+        "Abbreviation": "TK",
+        "Definition": "Track",
+        "createdAt": "2014-06-11T15:32:01.804Z",
+        "objectId": "eqdAVNUSNY",
+        "updatedAt": "2014-06-11T15:37:54.346Z"
+    },
+	{
+        "Abbreviation": "TLA",
+        "Definition": "Throttle Lever Angle",
+        "createdAt": "2014-06-11T15:32:08.224Z",
+        "objectId": "TIlH2Ts0V1",
+        "updatedAt": "2014-06-11T15:38:25.140Z"
+    },
+	{
+        "Abbreviation": "TO",
+        "Definition": "Take-Off",
+        "createdAt": "2014-06-11T15:32:16.382Z",
+        "objectId": "cy0uwVfmnq",
+        "updatedAt": "2014-06-11T15:39:00.168Z"
+    },
+	{
+        "Abbreviation": "TOBT",
+        "Definition": "Target Off-Block Time",
+        "createdAt": "2014-06-11T15:32:19.471Z",
+        "objectId": "jWxd3kuQSr",
+        "updatedAt": "2014-06-11T15:39:22.904Z"
+    },
+	{
+        "Abbreviation": "TOGA",
+        "Definition": "Take-Off/Go-Around",
+        "createdAt": "2014-06-11T15:32:22.570Z",
+        "objectId": "il3AJexwbx",
+        "updatedAt": "2014-06-11T15:40:00.874Z"
+    },
+	{
+        "Abbreviation": "TOGW",
+        "Definition": "Take-Off Gross Weight",
+        "createdAt": "2014-06-11T15:32:23.926Z",
+        "objectId": "UFPeGGlk1H",
+        "updatedAt": "2014-06-11T15:40:18.574Z"
+    },
+	{
+        "Abbreviation": "TRA",
+        "Definition": "Tower Radar Area",
+        "createdAt": "2014-06-11T15:32:26.754Z",
+        "objectId": "fIyJnl6pIR",
+        "updatedAt": "2014-06-11T15:41:16.294Z"
+    },
+	{
+        "Abbreviation": "TRK",
+        "Definition": "Track",
+        "createdAt": "2014-06-11T15:32:29.326Z",
+        "objectId": "jAA9VzSYyw",
+        "updatedAt": "2014-06-11T15:41:21.316Z"
+    },
+	{
+        "Abbreviation": "TRP",
+        "Definition": "Tower Radar Plan",
+        "createdAt": "2014-06-11T15:32:31.120Z",
+        "objectId": "XTK1xHUUDs",
+        "updatedAt": "2014-06-11T15:41:28.227Z"
+    },
+	{
+        "Abbreviation": "TTOT",
+        "Definition": "Target Take-Off Time",
+        "createdAt": "2014-06-11T15:32:42.805Z",
+        "objectId": "eggY4uqPAt",
+        "updatedAt": "2014-06-11T15:42:25.623Z"
+    },
+	{
+        "Abbreviation": "TWR",
+        "Definition": "Control Tower",
+        "createdAt": "2014-06-11T15:32:44.735Z",
+        "objectId": "EMNM9IC20K",
+        "updatedAt": "2014-06-11T15:42:37.458Z"
+    },
+	{
+        "Abbreviation": "TA",
+        "Definition": "Transition Altitude OR Traffic Alert OR TCAS Traffic Advisory",
+        "createdAt": "2014-06-11T15:31:19.408Z",
+        "objectId": "4hfuVtFugw",
+        "updatedAt": "2014-06-11T15:33:56.146Z"
+    },
+	{
+        "Abbreviation": "TAA",
+        "Definition": "Terminal Arrival Altitude",
+        "createdAt": "2014-06-11T15:31:21.587Z",
+        "objectId": "jksl1TEEqv",
+        "updatedAt": "2014-06-11T15:34:04.482Z"
+    },
+	{
+        "Abbreviation": "TACAN",
+        "Definition": "Tactical Air Navigation Aid",
+        "createdAt": "2014-06-11T15:31:24.054Z",
+        "objectId": "wfFHwp0rLg",
+        "updatedAt": "2014-06-11T15:34:14.209Z"
+    },
+	{
+        "Abbreviation": "TCAS",
+        "Definition": "Traffic Collision Alert System",
+        "createdAt": "2014-06-11T15:31:30.597Z",
+        "objectId": "KNMGwaPBiP",
+        "updatedAt": "2014-06-11T15:34:52.834Z"
+    },
+	{
+        "Abbreviation": "TCH",
+        "Definition": "Threshold Crossing Height",
+        "createdAt": "2014-06-11T15:31:31.638Z",
+        "objectId": "aZRAtgJ1L5",
+        "updatedAt": "2014-06-11T15:35:00.756Z"
+    },
+	{
+        "Abbreviation": "TDZE",
+        "Definition": "Touchdown Zone Elevation",
+        "createdAt": "2014-06-11T15:31:40.563Z",
+        "objectId": "RKloUFOVfo",
+        "updatedAt": "2014-06-11T15:35:37.585Z"
+    },
+	{
+        "Abbreviation": "TEZL",
+        "Definition": "Touchdown Zone Lighting",
+        "createdAt": "2014-06-11T15:31:42.955Z",
+        "objectId": "s6eDPErdyg",
+        "updatedAt": "2014-06-11T15:35:54.076Z"
+    },
+	{
+        "Abbreviation": "TERPS",
+        "Definition": "Terminal Instrument Procedures",
+        "createdAt": "2014-06-11T15:31:48.218Z",
+        "objectId": "Zi5m4089ZI",
+        "updatedAt": "2014-06-11T15:36:11.868Z"
+    },
+	{
+        "Abbreviation": "THS",
+        "Definition": "Trimmable Horizontal Stabilizer",
+        "createdAt": "2014-06-11T15:32:00.883Z",
+        "objectId": "RtuIb7lvDj",
+        "updatedAt": "2014-06-11T15:37:49.592Z"
+    },
+	{
+        "Abbreviation": "TLOF",
+        "Definition": "Touchdown and Lift-Off Area",
+        "createdAt": "2014-06-11T15:32:10.027Z",
+        "objectId": "kjVRCUmd1s",
+        "updatedAt": "2014-06-11T15:38:43.890Z"
+    },
+	{
+        "Abbreviation": "TMI",
+        "Definition": "Track Message Identification",
+        "createdAt": "2014-06-11T15:32:11.228Z",
+        "objectId": "JFLMqF54OT",
+        "updatedAt": "2014-06-11T15:38:53.361Z"
+    },
+	{
+        "Abbreviation": "TODA",
+        "Definition": "Take-Off Distance Available",
+        "createdAt": "2014-06-11T15:32:20.542Z",
+        "objectId": "kE5M9dXfSn",
+        "updatedAt": "2014-06-11T15:39:36.295Z"
+    },
+	{
+        "Abbreviation": "TORA",
+        "Definition": "Take-Off Run Available",
+        "createdAt": "2014-06-11T15:32:24.892Z",
+        "objectId": "AJrGUG9BzJ",
+        "updatedAt": "2014-06-11T15:40:41.552Z"
+    },
+	{
+        "Abbreviation": "TP",
+        "Definition": "Transport Canada Publication",
+        "createdAt": "2014-06-11T15:32:25.726Z",
+        "objectId": "BSuDNnjNUH",
+        "updatedAt": "2014-06-11T15:41:08.404Z"
+    },
+	{
+        "Abbreviation": "TRU",
+        "Definition": "Transformer Rectifier Unit",
+        "createdAt": "2014-06-11T15:32:32.871Z",
+        "objectId": "5GR7gj54Ug",
+        "updatedAt": "2014-06-11T15:41:41.622Z"
+    },
+	{
+        "Abbreviation": "TSAT",
+        "Definition": "Target Start-Up Approval Time",
+        "createdAt": "2014-06-11T15:32:34.354Z",
+        "objectId": "EyKhRYOLN0",
+        "updatedAt": "2014-06-11T15:41:52.194Z"
+    },
+	{
+        "Abbreviation": "TSB",
+        "Definition": "Transportation Safety Board of Canada",
+        "createdAt": "2014-06-11T15:32:35.729Z",
+        "objectId": "Xh1GUMEhDi",
+        "updatedAt": "2014-06-11T15:42:05.553Z"
+    },
+	{
+        "Abbreviation": "TSO",
+        "Definition": "Technical Standard Order",
+        "createdAt": "2014-06-11T15:32:41.475Z",
+        "objectId": "HQkSQtLKo3",
+        "updatedAt": "2014-06-11T15:42:17.207Z"
+    },
+	{
+        "Abbreviation": "TYRETOM",
+        "Definition": "Tyre Speed Take-Off Mass",
+        "createdAt": "2014-06-11T15:32:48.443Z",
+        "objectId": "piPfz8YcWL",
+        "updatedAt": "2014-06-11T15:42:51.269Z"
+    },
+	{
+        "Abbreviation": "UEOW",
+        "Definition": "Under East, Over West",
+        "createdAt": "2014-06-11T15:43:13.211Z",
+        "objectId": "nwqtDBrg81",
+        "updatedAt": "2014-06-11T15:43:36.610Z"
+    },
+	{
+        "Abbreviation": "UHF",
+        "Definition": "Ultrahigh Frequency",
+        "createdAt": "2014-06-11T15:43:16.183Z",
+        "objectId": "4EyR1qXg6V",
+        "updatedAt": "2014-06-11T15:43:44.731Z"
+    },
+	{
+        "Abbreviation": "UNICOM",
+        "Definition": "Universal Communications",
+        "createdAt": "2014-06-11T15:43:19.109Z",
+        "objectId": "bzoEA6iFwq",
+        "updatedAt": "2014-06-11T15:43:53.307Z"
+    },
+	{
+        "Abbreviation": "UNLK",
+        "Definition": "Unlock",
+        "createdAt": "2014-06-11T15:43:20.525Z",
+        "objectId": "oMYVR4uHuI",
+        "updatedAt": "2014-06-11T15:43:57.619Z"
+    },
+	{
+        "Abbreviation": "USB",
+        "Definition": "Upper Sideband",
+        "createdAt": "2014-06-11T15:43:25.381Z",
+        "objectId": "DeWuTYsNx0",
+        "updatedAt": "2014-06-11T15:44:13.655Z"
+    },
+	{
+        "Abbreviation": "UNOS",
+        "Definition": "Under North, Over South",
+        "createdAt": "2014-06-11T15:43:21.739Z",
+        "objectId": "zgtbiE47ze",
+        "updatedAt": "2014-06-11T15:44:07.705Z"
+    },
+	{
+        "Abbreviation": "UTC",
+        "Definition": "Universal Coordinated Time",
+        "createdAt": "2014-06-11T15:43:26.575Z",
+        "objectId": "rxWzKpk9iK",
+        "updatedAt": "2014-06-11T15:44:23.290Z"
+    },
+	{
+        "Abbreviation": "V",
+        "Definition": "Volts",
+        "createdAt": "2014-06-11T15:45:13.671Z",
+        "objectId": "UsDctEyJVE",
+        "updatedAt": "2014-06-11T15:46:42.547Z"
+    },
+	{
+        "Abbreviation": "V/S",
+        "Definition": "Vertical Speed",
+        "createdAt": "2014-06-11T15:45:15.887Z",
+        "objectId": "cxHuDQo4Ly",
+        "updatedAt": "2014-06-11T15:46:47.970Z"
+    },
+	{
+        "Abbreviation": "VDP",
+        "Definition": "Visual Descent Point",
+        "createdAt": "2014-06-11T15:45:43.094Z",
+        "objectId": "z65ZM1Qjlf",
+        "updatedAt": "2014-06-11T15:47:41.278Z"
+    },
+	{
+        "Abbreviation": "VFR",
+        "Definition": "Visual Flight Rules",
+        "createdAt": "2014-06-11T15:45:44.139Z",
+        "objectId": "9ODYx6AQI4",
+        "updatedAt": "2014-06-11T15:47:46.918Z"
+    },
+	{
+        "Abbreviation": "VHF",
+        "Definition": "Very High Frequency",
+        "createdAt": "2014-06-11T15:45:46.112Z",
+        "objectId": "R421LyRCCP",
+        "updatedAt": "2014-06-11T15:47:57.012Z"
+    },
+	{
+        "Abbreviation": "VIB",
+        "Definition": "Vibration",
+        "createdAt": "2014-06-11T15:45:47.888Z",
+        "objectId": "KtAdyPV9pd",
+        "updatedAt": "2014-06-11T15:48:01.918Z"
+    },
+	{
+        "Abbreviation": "VLF",
+        "Definition": "Very Low Frequency",
+        "createdAt": "2014-06-11T15:45:48.845Z",
+        "objectId": "HPIH9N4M35",
+        "updatedAt": "2014-06-11T15:48:09.491Z"
+    },
+	{
+        "Abbreviation": "VNAV",
+        "Definition": "Vertical Navigation",
+        "createdAt": "2014-06-11T15:46:02.781Z",
+        "objectId": "gEtqTgIcuv",
+        "updatedAt": "2014-06-11T15:48:52.504Z"
+    },
+	{
+        "Abbreviation": "VNC",
+        "Definition": "VFR Navigation Chart",
+        "createdAt": "2014-06-11T15:46:05.664Z",
+        "objectId": "bGT3CKZTgd",
+        "updatedAt": "2014-06-11T15:49:01.980Z"
+    },
+	{
+        "Abbreviation": "VORT",
+        "Definition": "Test VOR",
+        "createdAt": "2014-06-11T15:46:15.084Z",
+        "objectId": "5ErU7cge9j",
+        "updatedAt": "2014-06-11T15:49:49.636Z"
+    },
+	{
+        "Abbreviation": "VORTAC",
+        "Definition": "Combination of VOR and TACAN",
+        "createdAt": "2014-06-11T15:46:17.982Z",
+        "objectId": "foS3FTyPyS",
+        "updatedAt": "2014-06-11T15:50:02.697Z"
+    },
+	{
+        "Abbreviation": "VAS",
+        "Definition": "Vehicle Advisory Service",
+        "createdAt": "2014-06-11T15:45:18.495Z",
+        "objectId": "I8lSs3inT6",
+        "updatedAt": "2014-06-11T15:46:56.262Z"
+    },
+	{
+        "Abbreviation": "VASI",
+        "Definition": "Visual Approach Slope Indicator",
+        "createdAt": "2014-06-11T15:45:19.479Z",
+        "objectId": "QZBfBpvPDV",
+        "updatedAt": "2014-06-11T15:47:08.186Z"
+    },
+	{
+        "Abbreviation": "VCOA",
+        "Definition": "Visual Climb Over the Airport",
+        "createdAt": "2014-06-11T15:45:20.556Z",
+        "objectId": "00NIqxP3rG",
+        "updatedAt": "2014-06-11T15:47:17.541Z"
+    },
+	{
+        "Abbreviation": "VCS",
+        "Definition": "Vehicle Control Service",
+        "createdAt": "2014-06-11T15:45:21.593Z",
+        "objectId": "Nbc5CzMelv",
+        "updatedAt": "2014-06-11T15:47:25.728Z"
+    },
+	{
+        "Abbreviation": "VMC",
+        "Definition": "Visual Meteorological Conditions ",
+        "createdAt": "2014-06-11T15:45:54.980Z",
+        "objectId": "dpiaHl7Sr7",
+        "updatedAt": "2014-06-11T15:48:27.701Z"
+    },
+	{
+        "Abbreviation": "VNAP",
+        "Definition": "Vertical Noise Abatement Procedure",
+        "createdAt": "2014-06-11T15:46:00.777Z",
+        "objectId": "72qpEgGXFf",
+        "updatedAt": "2014-06-11T15:48:44.614Z"
+    },
+	{
+        "Abbreviation": "VOLMET",
+        "Definition": "In-Flight Meteorological Information",
+        "createdAt": "2014-06-11T15:46:12.291Z",
+        "objectId": "2efgNeN1nw",
+        "updatedAt": "2014-06-11T15:49:16.074Z"
+    },
+	{
+        "Abbreviation": "VOR",
+        "Definition": "Very High Frequency (VHF) Omnidirectional Range",
+        "createdAt": "2014-06-11T15:46:14.057Z",
+        "objectId": "K62pdDAkzF",
+        "updatedAt": "2014-06-11T15:49:34.851Z"
+    },
+	{
+        "Abbreviation": "VSI",
+        "Definition": "Vertical Speed Indicator ",
+        "createdAt": "2014-06-11T15:46:18.973Z",
+        "objectId": "yCbbzj4Gyu",
+        "updatedAt": "2014-06-11T15:50:17.884Z"
+    },
+	{
+        "Abbreviation": "VTA",
+        "Definition": "VFR Terminal Area Chart",
+        "createdAt": "2014-06-11T15:46:20.082Z",
+        "objectId": "r3qW2x16Ih",
+        "updatedAt": "2014-06-11T15:50:34.133Z"
+    },
+	{
+        "Abbreviation": "VTOL Aircraft",
+        "Definition": "Vertical Take-Off and Landing Aircraft",
+        "createdAt": "2014-06-11T15:46:33.495Z",
+        "objectId": "i95g2N1LAW",
+        "updatedAt": "2014-06-11T15:50:53.883Z"
+    },
+	{
+        "Abbreviation": "WAAS",
+        "Definition": "Wide Area Augmentation System",
+        "createdAt": "2014-06-11T15:51:41.464Z",
+        "objectId": "j9l6svUY9K",
+        "updatedAt": "2014-06-11T15:52:34.156Z"
+    },
+	{
+        "Abbreviation": "WHC",
+        "Definition": "Window Heat Computer",
+        "createdAt": "2014-06-11T15:51:43.207Z",
+        "objectId": "3xvk98QfPt",
+        "updatedAt": "2014-06-11T15:52:42.041Z"
+    },
+	{
+        "Abbreviation": "WPT",
+        "Definition": "Waypoint",
+        "createdAt": "2014-06-11T15:51:46.858Z",
+        "objectId": "xkMKfXf74P",
+        "updatedAt": "2014-06-11T15:52:57.976Z"
+    },
+	{
+        "Abbreviation": "WS",
+        "Definition": "Wind Shear",
+        "createdAt": "2014-06-11T15:51:48.565Z",
+        "objectId": "hXg5RWqOrH",
+        "updatedAt": "2014-06-11T15:53:02.977Z"
+    },
+	{
+        "Abbreviation": "WTB",
+        "Definition": "Wing Tip Brake",
+        "createdAt": "2014-06-11T15:51:51.282Z",
+        "objectId": "8c4Nxf2vvR",
+        "updatedAt": "2014-06-11T15:53:11.242Z"
+    },
+	{
+        "Abbreviation": "WX",
+        "Definition": "Weather",
+        "createdAt": "2014-06-11T15:51:54.377Z",
+        "objectId": "jI9tQD5UeC",
+        "updatedAt": "2014-06-11T15:53:15.287Z"
+    },
+	{
+        "Abbreviation": "WXR",
+        "Definition": "Weather Radar",
+        "createdAt": "2014-06-11T15:51:56.494Z",
+        "objectId": "SzqPXFJlom",
+        "updatedAt": "2014-06-11T15:53:21.535Z"
+    },
+	{
+        "Abbreviation": "XFR",
+        "Definition": "Transfer",
+        "createdAt": "2014-06-11T15:51:57.910Z",
+        "objectId": "q2vM0BZwLW",
+        "updatedAt": "2014-06-11T15:53:26.680Z"
+    },
+	{
+        "Abbreviation": "XMTR",
+        "Definition": "Transmitter",
+        "createdAt": "2014-06-11T15:52:00.139Z",
+        "objectId": "tpLii3smOo",
+        "updatedAt": "2014-06-11T15:53:35.045Z"
+    },
+	{
+        "Abbreviation": "XPDR",
+        "Definition": "Transponder",
+        "createdAt": "2014-06-11T15:52:01.368Z",
+        "objectId": "ED8DuyZyh4",
+        "updatedAt": "2014-06-11T15:53:40.024Z"
+    },
+	{
+        "Abbreviation": "ZFCG",
+        "Definition": "Zero Fuel Center of Gravity",
+        "createdAt": "2014-06-11T15:52:06.863Z",
+        "objectId": "UdpmzaikNF",
+        "updatedAt": "2014-06-11T15:53:52.158Z"
+    },
+	{
+        "Abbreviation": "ZFW",
+        "Definition": "Zero Fuel Weight",
+        "createdAt": "2014-06-11T15:52:08.859Z",
+        "objectId": "ZaBKpy5X63",
+        "updatedAt": "2014-06-11T15:53:58.949Z"
+    },
+	{
+        "Abbreviation": "Zulu (Z)",
+        "Definition": "Universal Coordinated Time",
+        "createdAt": "2014-06-11T15:52:21.568Z",
+        "objectId": "jhEtu5BB5D",
+        "updatedAt": "2014-06-11T15:54:09.649Z"
+    },
+	{
+        "Abbreviation": "WMO",
+        "Definition": "World Meteorological Organization",
+        "createdAt": "2014-06-11T15:51:44.281Z",
+        "objectId": "urBbLJKM1F",
+        "updatedAt": "2014-06-11T15:52:54.473Z"
+    },
+	{
+        "Abbreviation": "EOBT",
+        "Definition": "Estimated Off Block Time",
+        "createdAt": "2014-06-19T17:06:09.767Z",
+        "objectId": "vpxppxMQdr",
+        "updatedAt": "2014-06-19T17:06:18.027Z"
+    },
+	{
+        "Abbreviation": "CMV",
+        "Definition": "Converted Meteorological Visibility",
+        "createdAt": "2014-06-19T17:06:25.045Z",
+        "objectId": "fGRMnSmq29",
+        "updatedAt": "2014-06-19T17:06:48.801Z"
+    },
+	{
+        "Abbreviation": "SMGCS",
+        "Definition": "Surface Movement Guidance and Control System",
+        "createdAt": "2014-06-21T05:06:03.950Z",
+        "objectId": "xbtYJcC9xu",
+        "updatedAt": "2014-06-21T05:06:21.299Z"
+    },
+	{
+        "Abbreviation": "VDGS",
+        "Definition": "Visual Docking Guidance System",
+        "createdAt": "2014-06-21T05:06:29.102Z",
+        "objectId": "W9DFH1wdTS",
+        "updatedAt": "2014-06-21T05:06:39.180Z"
+    },
+	{
+        "Abbreviation": "A-CDM",
+        "Definition": "APT-Collaborative Decision Making",
+        "createdAt": "2014-06-21T05:06:51.119Z",
+        "objectId": "k9MNv2BBJY",
+        "updatedAt": "2014-06-21T05:07:15.174Z"
+    },
+	{
+        "Abbreviation": "DCL",
+        "Definition": "Datalink Departure Clearance",
+        "createdAt": "2014-06-21T05:06:44.953Z",
+        "objectId": "MnZXqAsYGY",
+        "updatedAt": "2014-06-21T05:07:02.296Z"
+    }
+] }

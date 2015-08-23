@@ -7,6 +7,8 @@
 //
 
 #import "AppDelegate.h"
+#import <Parse/Parse.h>
+#import <iAd/iAd.h>
 
 @implementation AppDelegate
 
@@ -16,10 +18,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    // Override point for customization after application launch.
-    self.window.backgroundColor = [UIColor whiteColor];
-    [self.window makeKeyAndVisible];
+    [Parse setApplicationId:@"eHHOYXKUSHi4caUACcKYTWKFmbpLy82biEn92dyd"
+                  clientKey:@"IOeUeXGB7kbAPIkgLMbqgoKsPyJG0ZqIHE0T2I0S"];
+    
+    [UITableViewController prepareInterstitialAds];
+    
     return YES;
 }
 
